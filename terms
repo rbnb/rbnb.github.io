@@ -1,0 +1,1387 @@
+<!DOCTYPE html>
+
+<!--[if lt IE 8]>
+
+<html lang="ru"
+      
+      xmlns:fb="http://ogp.me/ns/fb#"
+      class="ie">
+
+<![endif]-->
+
+<!--[if IE 8]>
+
+<html lang="ru"
+      
+      xmlns:fb="http://ogp.me/ns/fb#"
+      class="ie ie8">
+
+<![endif]-->
+
+<!--[if IE 9]>
+
+  <html lang="ru"
+      
+      xmlns:fb="http://ogp.me/ns/fb#"
+      class="ie ie9">
+
+<![endif]-->
+
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="ru"
+      
+      xmlns:fb="http://ogp.me/ns/fb#">
+
+<!--<![endif]-->
+
+  <head>
+    <link rel="dns-prefetch" href="https://maps.googleapis.com/">
+    <link rel="dns-prefetch" href="https://maps.gstatic.com/">
+    <link rel="dns-prefetch" href="https://mts0.googleapis.com/">
+    <link rel="dns-prefetch" href="https://mts1.googleapis.com/">
+
+    <!--[if IE]><![endif]-->
+    <meta charset="utf-8">
+
+    <!--[if IE 8]>
+      <link href="https://a1.muscache.com/airbnb/static/packages/common_o2.1_ie8-2389f3c66b9ad2238a3a44390ed30e2d.css" media="all" rel="stylesheet" type="text/css" />
+    <![endif]-->
+    <!--[if !(IE 8)]><!-->
+      <link href="https://a2.muscache.com/airbnb/static/packages/common_o2.1-76f74b98f28757c71e2fe392594f3064.css" media="all" rel="stylesheet" type="text/css" />
+    <!--<![endif]-->
+
+      <!--[if lt IE 9]>
+        <link href="https://a1.muscache.com/airbnb/static/compatibility/airglyphs-ie8-4c53dec162d53b582fc89aec44bf17b7.css" media="all" rel="stylesheet" type="text/css" />
+      <![endif]-->
+
+    <link href="https://a1.muscache.com/airbnb/static/terms.css" media="screen" rel="stylesheet" type="text/css" />
+    
+
+    <meta id="csrf-param-meta-tag" name="csrf-param" content="authenticity_token"/>
+    <meta id="csrf-token-meta-tag" name="csrf-token" content=""/>
+
+    <script>
+
+      var sherlock_firstbyte = Number(new Date());
+</script>
+
+    <title>Условия предоставления услуг</title>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+      <link rel="canonical" href="terms">
+          <link rel="alternate" href="https://es.airbnb.com/terms" hreflang="es">
+          <link rel="alternate" href="https://fr.airbnb.be/terms" hreflang="fr-BE">
+          <link rel="alternate" href="https://fr.airbnb.ca/terms" hreflang="fr-CA">
+          <link rel="alternate" href="https://fr.airbnb.ch/terms" hreflang="fr-CH">
+          <link rel="alternate" href="https://it.airbnb.ch/terms" hreflang="it-CH">
+          <link rel="alternate" href="https://th.airbnb.com/terms" hreflang="th">
+          <link rel="alternate" href="https://www.airbnb.at/terms" hreflang="de-AT">
+          <link rel="alternate" href="https://www.airbnb.be/terms" hreflang="nl-BE">
+          <link rel="alternate" href="https://www.airbnb.ca/terms" hreflang="en-CA">
+          <link rel="alternate" href="https://www.airbnb.cat/terms" hreflang="ca">
+          <link rel="alternate" href="https://www.airbnb.ch/terms" hreflang="de-CH">
+          <link rel="alternate" href="https://www.airbnb.cl/terms" hreflang="es-CL">
+          <link rel="alternate" href="https://www.airbnb.co.cr/terms" hreflang="es-CR">
+          <link rel="alternate" href="https://www.airbnb.co.id/terms" hreflang="id">
+          <link rel="alternate" href="https://www.airbnb.co.in/terms" hreflang="en-IN">
+          <link rel="alternate" href="https://www.airbnb.co.kr/terms" hreflang="ko">
+          <link rel="alternate" href="https://www.airbnb.co.nz/terms" hreflang="en-NZ">
+          <link rel="alternate" href="https://www.airbnb.co.uk/terms" hreflang="en-GB">
+          <link rel="alternate" href="https://www.airbnb.co.ve/terms" hreflang="es-VE">
+          <link rel="alternate" href="https://www.airbnb.com/terms" hreflang="en">
+          <link rel="alternate" href="https://www.airbnb.com.ar/terms" hreflang="es-AR">
+          <link rel="alternate" href="https://www.airbnb.com.au/terms" hreflang="en-AU">
+          <link rel="alternate" href="https://www.airbnb.com.bo/terms" hreflang="es-BO">
+          <link rel="alternate" href="https://www.airbnb.com.br/terms" hreflang="pt">
+          <link rel="alternate" href="https://www.airbnb.com.bz/terms" hreflang="es-BZ">
+          <link rel="alternate" href="https://www.airbnb.com.co/terms" hreflang="es-CO">
+          <link rel="alternate" href="https://www.airbnb.com.ec/terms" hreflang="es-EC">
+          <link rel="alternate" href="https://www.airbnb.com.gt/terms" hreflang="es-GT">
+          <link rel="alternate" href="https://www.airbnb.com.hk/terms" hreflang="zh-HK">
+          <link rel="alternate" href="https://www.airbnb.com.hn/terms" hreflang="es-HN">
+          <link rel="alternate" href="https://www.airbnb.com.mt/terms" hreflang="en-MT">
+          <link rel="alternate" href="https://www.airbnb.com.my/terms" hreflang="ms">
+          <link rel="alternate" href="https://www.airbnb.com.ni/terms" hreflang="es-NI">
+          <link rel="alternate" href="https://www.airbnb.com.pa/terms" hreflang="es-PA">
+          <link rel="alternate" href="https://www.airbnb.com.pe/terms" hreflang="es-PE">
+          <link rel="alternate" href="https://www.airbnb.com.py/terms" hreflang="es-PY">
+          <link rel="alternate" href="https://www.airbnb.com.sg/terms" hreflang="en-SG">
+          <link rel="alternate" href="https://www.airbnb.com.sv/terms" hreflang="es-SV">
+          <link rel="alternate" href="https://www.airbnb.com.tr/terms" hreflang="tr">
+          <link rel="alternate" href="https://www.airbnb.com.tw/terms" hreflang="zh-TW">
+          <link rel="alternate" href="https://www.airbnb.cz/terms" hreflang="cs">
+          <link rel="alternate" href="https://www.airbnb.de/terms" hreflang="de">
+          <link rel="alternate" href="https://www.airbnb.dk/terms" hreflang="da">
+          <link rel="alternate" href="https://www.airbnb.es/terms" hreflang="es-ES">
+          <link rel="alternate" href="https://www.airbnb.fi/terms" hreflang="fi">
+          <link rel="alternate" href="https://www.airbnb.fr/terms" hreflang="fr">
+          <link rel="alternate" href="https://www.airbnb.gr/terms" hreflang="el">
+          <link rel="alternate" href="https://www.airbnb.gy/terms" hreflang="en-GY">
+          <link rel="alternate" href="https://www.airbnb.hu/terms" hreflang="hu">
+          <link rel="alternate" href="https://www.airbnb.ie/terms" hreflang="en-IE">
+          <link rel="alternate" href="https://www.airbnb.is/terms" hreflang="is">
+          <link rel="alternate" href="https://www.airbnb.it/terms" hreflang="it">
+          <link rel="alternate" href="https://www.airbnb.jp/terms" hreflang="ja">
+          <link rel="alternate" href="https://www.airbnb.mx/terms" hreflang="es-MX">
+          <link rel="alternate" href="https://www.airbnb.nl/terms" hreflang="nl">
+          <link rel="alternate" href="https://www.airbnb.no/terms" hreflang="no">
+          <link rel="alternate" href="https://www.airbnb.pl/terms" hreflang="pl">
+          <link rel="alternate" href="https://www.airbnb.pt/terms" hreflang="pt-PT">
+          <link rel="alternate" href="terms" hreflang="ru">
+          <link rel="alternate" href="https://www.airbnb.se/terms" hreflang="sv">
+          <link rel="alternate" href="https://zh.airbnb.com/terms" hreflang="zh">
+
+
+
+
+
+
+      <meta property="og:image" content="https://a2.muscache.com/airbnb/static/logos/belo-400x400-084661b96df1341091ee5764587d8ed8.png">
+
+    <meta name="twitter:widgets:csp" content="on">
+
+
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="image_src" href="https://a2.muscache.com/airbnb/static/logos/belo-200x200-4d851c5b28f61931bf1df28dd15e60ef.png">
+    <link rel="search" type="application/opensearchdescription+xml" href="opensearch.xml" title="Airbnb">
+
+    <!--[if lte IE 9]>
+      <script src="https://a2.muscache.com/airbnb/static/packages/libs_ie_support-b79daf6f8ced9b9ee1d841fbcc88d2a7.js" type="text/javascript"></script>
+      <link href="https://a0.muscache.com/airbnb/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+      <link href="/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+      <script src="/respond.proxy.js?cb=1"></script>
+    <![endif]-->
+
+    <!-- titleless support for mobile -->
+    <meta name="mobile-web-app-capable" content="yes">
+
+    <!-- toolbar color for chrome on android -->
+    <meta name="theme-color" content="#f5f5f5">
+
+    <link rel="apple-touch-icon" href="https://a1.muscache.com/airbnb/static/icons/apple-touch-icon-76x76-29b6a802ddcbcada3e98c1336b078985.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="https://a1.muscache.com/airbnb/static/icons/apple-touch-icon-76x76-29b6a802ddcbcada3e98c1336b078985.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="https://a2.muscache.com/airbnb/static/icons/apple-touch-icon-120x120-f755fee8bec28959299b265351f0dee2.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="https://a1.muscache.com/airbnb/static/icons/apple-touch-icon-152x152-51479ae43400e03b95a33f5119c65262.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://a2.muscache.com/airbnb/static/icons/apple-touch-icon-180x180-830c8479ce4d0a3c9df95fdfeddf6faa.png" />
+<link rel="icon" sizes="192x192" href="https://a0.muscache.com/airbnb/static/icons/android-icon-192x192-ab82dea1266beaa15c85fbed5bc45702.png" />
+<link rel="shortcut icon" sizes="76x76" type="image/x-icon" href="https://a1.muscache.com/airbnb/static/logotype_favicon-21cc8e6c6a2cca43f061d2dcabdf6e58.ico" />
+
+
+  </head>
+  <body class="">
+    <a class="screen-reader-only screen-reader-only-focusable skip-to-content"
+       data-hook="skip-to-content"
+       tabindex="1"
+       href="terms#site-content">
+      Пропустить и перейти к тексту
+    </a>
+
+    <h1 class="screen-reader-only">
+      Airbnb
+    </h1>
+
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-46MK"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+      <noscript><div><img src="https://mc.yandex.ru/watch/22125998" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+
+
+    <meta content="{&quot;flags&quot;:{&quot;name&quot;:&quot;flags&quot;,&quot;value&quot;:{&quot;can_see_community&quot;:2,&quot;og_publish&quot;:16,&quot;has_wishlisted&quot;:32,&quot;update_cached&quot;:64,&quot;revert_to_admin&quot;:128,&quot;facebook_connected&quot;:256,&quot;erf_override&quot;:512,&quot;has_search&quot;:1024,&quot;search_help_dropdown&quot;:2048,&quot;has_dates&quot;:4096,&quot;can_see_notifications_tooltip&quot;:8192,&quot;can_send_profile_messages&quot;:32768,&quot;just_logged_in&quot;:65536,&quot;has_been_host&quot;:131072,&quot;should_drop_pellet&quot;:262144,&quot;is_active_host&quot;:1048576,&quot;is_vr_platform_powered_host&quot;:67108864,&quot;can_see_meetups&quot;:134217728,&quot;should_drop_sift_pellet&quot;:268435456,&quot;can_see_groups&quot;:536870912,&quot;has_verified_phone&quot;:1073741824,&quot;has_profile_pic&quot;:2147483648}},&quot;roles&quot;:{&quot;name&quot;:&quot;roles&quot;,&quot;value&quot;:{&quot;is_content_manager&quot;:1048576,&quot;is_stats_admin&quot;:16777216}},&quot;user_attributes&quot;:{&quot;name&quot;:&quot;_user_attributes&quot;}}" id="_bootstrap-user-attr-cookies" />
+<meta content="{&quot;tld_country&quot;:&quot;RU&quot;}" id="_bootstrap-header-init" />
+<meta content="{&quot;field_guide3&quot;:{&quot;subject&quot;:&quot;bev&quot;,&quot;buckets&quot;:2,&quot;percent_exposed&quot;:100,&quot;treatments&quot;:[{&quot;name&quot;:&quot;baseline&quot;,&quot;buckets&quot;:null},{&quot;name&quot;:&quot;show_guide&quot;,&quot;buckets&quot;:null}]},&quot;the_new_header_take_3&quot;:{&quot;subject&quot;:&quot;bev&quot;,&quot;buckets&quot;:2,&quot;percent_exposed&quot;:100,&quot;treatments&quot;:[{&quot;name&quot;:&quot;new_header&quot;,&quot;buckets&quot;:null},{&quot;name&quot;:&quot;old_header&quot;,&quot;buckets&quot;:null}]},&quot;global_recently_viewed&quot;:{&quot;subject&quot;:&quot;bev&quot;,&quot;buckets&quot;:2,&quot;percent_exposed&quot;:100,&quot;treatments&quot;:[{&quot;name&quot;:&quot;control&quot;,&quot;buckets&quot;:null},{&quot;name&quot;:&quot;global_recently_viewed&quot;,&quot;buckets&quot;:null}]}}" id="_bootstrap-erf" />
+
+
+
+    <div class="smart-banner" aria-hidden="true" role="banner">
+  <a href="terms#" class="icon icon-remove icon-size-1 pull-left link-reset banner-close">
+    <span class="screen-reader-only">
+      Закрыть
+    </span>
+  </a>
+  <a href="terms#"
+     data-href="http://r.yoz.io/l.c.hsjS"
+     data-href-alt="http://r.yoz.io/l.c.hskj"
+     class="pull-left app-icon install-link action-link">
+    <span class="screen-reader-only">
+      Установить
+    </span>
+  </a>
+  <div class="banner-content">
+    <div class="banner-title space-top-sm-1 space-top-md-3">
+      <strong class="icon-dark-gray ios-item">
+        Airbnb для iOS
+      </strong>
+      <strong class="icon-dark-gray android-item hide">
+        Airbnb для Android
+      </strong>
+      <br class="android-item hide">
+      <br class="ios-item hide-sm">
+      <div class="star-rating">
+        <i class="icon icon-beach icon-star"></i>
+        <i class="icon icon-beach icon-star"></i>
+        <i class="icon icon-beach icon-star"></i>
+        <i class="icon icon-beach icon-star"></i>
+        <i class="icon icon-star icon-light-gray"></i>
+      </div>
+      <small class="banner-reviews icon-gray ios-item">(5,268)</small>
+      <small class="banner-reviews icon-gray android-item hide">(60,813)</small>
+    </div>
+    <div class="banner-buttons text-right space-top-sm-2 space-top-md-4">
+      <a class="link-reset btn btn-primary btn-small banner-button install-link action-link"
+         href="terms#"
+         data-href="http://r.yoz.io/l.c.hsjS"
+         data-href-alt="http://r.yoz.io/l.c.hskj">
+        Установить
+      </a>
+      <a class="btn btn-small banner-button open-in-app-button action-link"
+         href="airbnb://"
+         data-href="airbnb://"
+         data-backup-href="http://r.yoz.io/l.c.hsjS"
+         data-backup-href-alt="http://r.yoz.io/l.c.hskj">
+         Открыть
+      </a>
+    </div>
+  </div>
+</div>
+
+
+    <div id="header" class="airbnb-header new">
+
+  <header class="header--sm show-sm" aria-hidden="true" role="banner">
+  <a href="terms#"
+     aria-label="Главная страница"
+     data-prevent-default
+     class="link-reset burger--sm">
+    <i class="icon icon-reorder icon-rausch"></i>
+    <span class="screen-reader-only">
+      Airbnb
+    </span>
+  </a>
+  <div class="title--sm text-center">
+      <button class="btn btn-block search-btn--sm search-modal-trigger">
+        <i class="icon icon-search icon-gray"></i>
+        <span class="search-placeholder--sm">
+          Куда вы едете?
+        </span>
+      </button>
+  </div>
+  <div class="action--sm"></div>
+  <nav class="nav--sm" role="navigation"></nav>
+  <div class="search-modal-container"></div>
+</header>
+
+
+  <header class="regular-header clearfix hide-sm" id="old-header" role="banner">
+  <a aria-label="Главная страница"
+     href="index.html"
+     class="header-belo pull-left">
+    <span class="screen-reader-only">
+      Airbnb
+    </span>
+  </a>
+
+  <ul class="nav pull-left hide-sm list-unstyled search-form-container"
+    id="search-form-header">
+  <li id="header-search" class="search-bar-wrapper pull-left medium-right-margin">
+    <form action="https://www.airbnb.ru/s" id="search-form" class="search-form">
+      <div class="search-bar">
+        <i class="icon icon-search icon-gray h4"></i>
+        <input type="text"
+               placeholder="Куда вы едете?"
+               autocomplete="off"
+               name="location"
+               data-date-placeholder="дд.мм.гггг"
+               class="location" />
+        <input type="hidden" name="source" value="hdr" />
+      </div>
+    </form>
+  </li>
+  <li class="dropdown-trigger pull-left large-right-margin hide-sm hide" data-behavior="recently-viewed__container">
+    <a class="link-reset"
+      href="s/index.html@recent=true#docked-filters"
+      data-behavior="recently-viewed__trigger"
+    >
+      <span class="show-lg recently-viewed__label">
+        Недавно просмотренные
+      </span>
+      <span class="hide-lg recently-viewed__label">
+        <i class="icon icon-recently-viewed icon-gray h4"></i>
+      </span>
+      <i class="icon icon-caret-down icon-light-gray h5"></i>
+    </a>
+    <div class="tooltip tooltip-top-left dropdown-menu recently-viewed__dropdown"
+      data-behavior="recently-viewed__dropdown">
+    </div>
+  </li>
+    <li class="browse-container dropdown-trigger pull-left hide-md">
+      <a class="link-reset header-browse-trigger"
+   href="terms#"
+   data-prevent-default
+   id="header-browse-trigger">
+  Разделы
+   <i class="icon icon-caret-down icon-light-gray h5"></i>
+</a>
+<ul class="tooltip tooltip-top-left dropdown-menu list-unstyled">
+  <li>
+    <a href="wishlists/popular"
+       class="link-reset menu-item header-browse-popular">
+      Популярные объявления
+    </a>
+  </li>
+  <li>
+    <a href="wishlists/friends"
+       class="link-reset menu-item header-browse-friends">
+      Друзья
+    </a>
+  </li>
+  <li>
+    <a href="locations"
+       class="link-reset menu-item header-browse-neighborhoods">
+      Гид по районам
+    </a>
+  </li>
+  <li class="groups hide">
+    <a href="terms#"
+       data-href="/groups"
+       rel="nofollow"
+       class="no-crawl link-reset menu-item header-browse-groups">
+      Группы
+    </a>
+  </li>
+</ul>
+
+    </li>
+</ul>
+
+
+  <ul class="nav pull-right help-menu list-unstyled">
+  <li id='header-help-menu'
+      class="help-menu-container pull-left large-right-margin hide-md dropdown-trigger">
+    <a id="header-help-trigger"
+       class="help-toggle link-reset"
+       href="help">
+      Помощь
+      <i class="icon icon-caret-down icon-light-gray h5"></i>
+    </a>
+    <div class="tooltip tooltip-top-right dropdown-menu help-dropdown">
+      <ul class="list-layout">
+  <li class="search-bar--help hide">
+    <form action="https://www.airbnb.ru/help/search" class="search-form--help menu-item">
+      <div class="input-addon">
+        <input type="text"
+               placeholder="Найти в Центре помощи"
+               autocomplete="off"
+               name="q"
+               class="input-stem" />
+        <input type="hidden" name="search_from" value="hdr" />
+        <i class="btn btn-primary icon icon-search input-suffix form-submit--help"></i>
+      </div>
+    </form>
+  </li>
+  <li class="visit-helpcenter-cta hide">
+    <a href="help" class="help-center-link menu-item">
+      Посетите раздел Помощь &#187;
+    </a>
+  </li>
+  <li class="loading"></li>
+  <li class="all_faqs hide">
+    <a href="help" class="link-reset menu-item">
+      Просмотреть все FAQ
+    </a>
+  </li>
+</ul>
+
+    </div>
+  </li>
+    <li class="list-your-space pull-left">
+        <a id="list-your-space" class="btn btn-special list-your-space-btn hide" href="rooms/new">
+          Сдайте свое жилье
+        </a>
+    </li>
+</ul>
+<div id="help-panel-modal">
+</div>
+
+
+  <ul class="nav pull-right logged-out list-unstyled medium-right-margin">
+  <li id="sign_up" class="pull-left medium-right-margin">
+    <a data-signup-modal
+       data-header-view="true"
+       href="signup_login"
+       data-redirect="redirect_params[action]=terms&amp;redirect_params[controller]=home"
+       class="link-reset">
+      Регистрация
+    </a>
+  </li>
+  <li id="login" class="pull-left">
+    <a data-login-modal
+       href="login"
+       data-redirect="redirect_params[action]=terms&amp;redirect_params[controller]=home"
+       class="link-reset">
+      Войти
+    </a>
+  </li>
+</ul>
+
+
+
+  <ul class="nav pull-right logged-in list-unstyled medium-right-margin">
+  <li id="inbox-item" class="inbox-item pull-left dropdown-trigger">
+    <a href="terms#"
+       data-href="/inbox"
+       rel="nofollow"
+       class="no-crawl link-reset inbox-icon">
+      <i class="alert-count fade text-center">0</i>
+      <i class="icon icon-envelope icon-gray">
+        <span class="text-hide hide">
+          Почтовый ящик
+        </span>
+      </i>
+    </a>
+    <div class="tooltip tooltip-top-right dropdown-menu list-unstyled header-dropdown
+                notifications-dropdown hide">
+    </div>
+  </li>
+</ul>
+
+
+  <ul class="nav pull-right logged-in list-unstyled" role="navigation">
+  <li class="user-item pull-left medium-right-margin dropdown-trigger">
+    <a class="link-reset header-avatar-trigger"
+       id="header-avatar-trigger"
+       href="terms#">
+      <div class="media-photo media-round user-profile-image"></div>
+      <span class="value_name">
+        Пользователь
+      </span>
+      <i class="icon icon-caret-down icon-light-gray h5"></i>
+    </a>
+    <ul class="tooltip tooltip-top-right dropdown-menu list-unstyled header-dropdown">
+      <li>
+        <a href="terms#"
+           data-href="/home/dashboard"
+           rel="nofollow"
+           class="no-crawl link-reset menu-item item-dashboard">
+          Панель управления
+        </a>
+      </li>
+      <li class="listings">
+        <a href="terms#"
+           data-href="/rooms"
+           rel="nofollow"
+           class="no-crawl link-reset menu-item item-listing">
+          <span class="singular" style="display: none;">
+            Ваше объявление
+          </span>
+          <span class="plural">
+            Ваши объявления
+          </span>
+        </a>
+      </li>
+      <li class="reservations" style="display: none;">
+        <a href="terms#"
+           data-href="/my_reservations"
+           rel="nofollow"
+           class="no-crawl link-reset menu-item item-reservation">
+           Ваши бронирования
+        </a>
+      </li>
+      <li>
+        <a href="terms#"
+           data-href="/trips/upcoming"
+           rel="nofollow"
+           class="no-crawl link-reset menu-item item-trips">
+          Поездки
+        </a>
+      </li>
+      <li>
+        <a href="terms#"
+           data-href="/wishlists/my"
+           id="wishlists"
+           class="no-crawl link-reset menu-item item-wishlists">
+          Wish Lists
+        </a>
+      </li>
+      <li class="groups">
+        <a href="terms#"
+           data-href="/groups"
+           rel="nofollow"
+           class="no-crawl link-reset menu-item item-groups">
+          Группы
+        </a>
+      </li>
+      <li>
+        <a href="terms#"
+           data-href="/invite?r=3"
+           class="no-crawl link-reset menu-item item-invite-friends">
+          Пригласите друзей
+          <span class="label label-pink label-new">
+            Новинка
+          </span>
+        </a>
+      </li>
+      <li>
+        <a href="terms#"
+           data-href="/users/edit"
+           rel="nofollow"
+           class="no-crawl link-reset menu-item item-user-edit">
+          Редактировать профиль
+        </a>
+      </li>
+      <li>
+        <a href="terms#"
+           data-href="/account"
+           rel="nofollow"
+           class="no-crawl link-reset menu-item item-account">
+          Аккаунт
+        </a>
+      </li>
+      <li>
+        <a href="terms#"
+           data-href="/logout"
+           rel="nofollow"
+           class="no-crawl link-reset menu-item header-logout">
+          Выйти
+        </a>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+</header>
+
+
+  <div class="regular-header regular-header--new clearfix hide-sm" id="new-header">
+
+  
+<div class="comp pull-left">
+  <a href="index.html" class="hdr-btn link-reset belo-container">
+    <i class="icon icon-pos--lower icon-rausch icon-airbnb-alt h2 show-login"></i>
+    <i class="icon icon-pos--lower icon-rausch icon-airbnb show-logout"></i>
+  </a>
+</div>
+
+
+    <div class="comp pull-left search-bar-wrapper">
+    <form action="https://www.airbnb.ru/s" class="search-form">
+      <div class="search-bar">
+        <i class="icon icon-search icon-gray h4"></i>
+        <input type="text"
+               placeholder="Куда вы едете?"
+               autocomplete="off"
+               name="location"
+               data-date-placeholder="дд.мм.гггг"
+               class="location" />
+        <input type="hidden" name="source" value="hdr" />
+      </div>
+    </form>
+  </div>
+
+
+  <div class="comp pull-right help-trigger-wrapper no-border background-light-gray ">
+  <a class="hdr-btn help-toggle link-reset"
+     href="help">
+  Помощь
+  </a>
+  <div class="panel tooltip tooltip-top-right drop-down-menu help-dropdown">
+    <div class="search-bar--help hide">
+      <form action="https://www.airbnb.ru/help/search" class="search-form--help menu-item">
+        <div class="input-addon">
+          <input type="text"
+                 placeholder="Найти в Центре помощи"
+                 autocomplete="off"
+                 name="q"
+                 class="input-stem" />
+          <input type="hidden" name="search_from" value="hdr" />
+          <i class="btn btn-primary icon icon-search input-suffix form-submit--help"></i>
+        </div>
+      </form>
+    </div>
+    <a href="help" class="visit-helpcenter-cta help-center-link menu-item hide">
+      Посетите раздел Помощь &#187;
+    </a>
+    <div class="loading"></div>
+    <a href="help" class="all_faqs link-reset menu-item hide">
+      Просмотреть все FAQ
+    </a>
+  </div>
+</div>
+
+
+  
+<div class="comp pull-right show-login">
+  <a class="no-crawl hdr-btn link-reset header-avatar-trigger"
+     rel="nofollow"
+     href="terms#"
+     data-href="/dashboard"
+     data-href-host="/trips">
+    <div class="media-photo media-round normal-line-height user-profile-image margin-right--tiny"></div>
+    <span class="value_name margin-right--tiny hide-md"></span>
+    <i class="icon-chevron-down-alt hide-md icon-chevron-down-alt-gray"></i>
+  </a>
+  <div class="panel tooltip tooltip-top-right drop-down-menu avatar-tooltip--new">
+        <a href="terms#" class="no-crawl link-reset menu-item" data-href="/trips">Поездки</a>
+        <a href="terms#" class="no-crawl link-reset menu-item" data-href="/wishlists/popular">Wish Lists</a>
+        <a href="terms#" class="no-crawl link-reset menu-item" data-href="/users/edit">Редактировать профиль</a>
+        <a href="invite" class="link-reset menu-item">Пригласите друзей</a>
+        <a href="terms#" class="no-crawl link-reset menu-item" data-href="/users/notifications">Настройки аккаунта</a>
+        <a href="terms#" class="no-crawl link-reset menu-item" data-href="/logout">Выйти</a>
+  </div>
+</div>
+
+
+  
+<div class="comp pull-right show-login">
+  <a class="no-crawl hdr-btn link-reset "
+     href="terms#"
+     data-href="/inbox"
+     rel="nofollow">
+    <div class="inbox-icon-container text-center">
+      <i class="icon icon-envelope h3 icon-pos--lower icon-gray">
+        <span class="text-hide hide">Inbox</span>
+      </i>
+      <i class="alert-count text-center fade">0</i>
+    </div>
+  </a>
+
+  <div class="tooltip tooltip-top-right panel drop-down-menu notifications-dropdown hide">
+  </div>
+
+</div>
+
+
+  <div class="comp pull-right show-logout">
+  <a data-signup-modal="" data-header-view="true"
+     href="signup_login"
+     data-redirect="redirect_params[action]=terms&amp;redirect_params[controller]=home"
+     class="hdr-btn link-reset">
+    Регистрация
+  </a>
+</div>
+<div class="comp pull-right show-logout">
+  <a data-login-modal=""
+     href="login"
+     data-redirect="redirect_params[action]=terms&amp;redirect_params[controller]=home"
+     class="hdr-btn link-reset">
+    Войти
+  </a>
+</div>
+
+
+  
+<div class="comp pull-right">
+  <div>
+    <a class="no-crawl hdr-btn link-reset  show-host"
+       href="terms#"
+       rel="nofollow"
+       data-href="/dashboard">
+      <i class="icon icon-host-home-alt h3 margin-right--small icon-pos--lower icon-gray"></i>
+      <span class="hide-md margin-right--tiny">
+        Принимайте гостей
+      </span>
+      <i class="icon-chevron-down-alt hide-md icon-chevron-down-alt-gray"></i>
+    </a>
+    <a class="hdr-btn link-reset  hide-host"
+       href="rooms/new">
+      <i class="icon icon-host-home-alt h3 margin-right--small icon-pos--lower icon-gray"></i>
+      <span class="hide-md margin-right--tiny">
+        Стать Хозяином
+      </span>
+      <i class="icon-chevron-down-alt hide-md icon-chevron-down-alt-gray"></i>
+    </a>
+  </div>
+
+  <div class="panel tooltip tooltip-top-right drop-down-menu host-tooltip--new">
+        <a href="terms#" class="no-crawl link-reset menu-item show-host" data-href="/dashboard">Панель управления</a>
+        <a href="host" class="link-reset menu-item hide-host">Почему стоит принимать гостей</a>
+        <a href="rooms/new" class="link-reset menu-item list-your-space-btn">Сдайте свое жилье</a>
+        <a href="terms#" class="no-crawl link-reset menu-item show-host" data-href="/rooms">Управление объявлениями</a>
+        <a href="terms#" class="no-crawl link-reset menu-item show-host" data-href="/my_reservations">Ваши бронирования</a>
+        <a href="terms#" class="no-crawl link-reset menu-item show-host" data-href="/users/reviews">Отзывы</a>
+        <a href="terms#" class="no-crawl link-reset menu-item show-host" data-href="/groups">Группы</a>
+        <a href="hospitality" class="link-reset menu-item">Гостеприимство</a>
+  </div>
+</div>
+
+</div>
+
+</div>
+
+    <noscript>
+<div class="alert alert-with-icon alert-error  no-js-alert"
+     >
+  <i class="icon alert-icon icon-alert-alt"></i>
+        К сожалению, некоторые части сайта Airbnb не работают как задумано, если не включить JavaScript.
+
+</div>
+</noscript>
+
+
+
+    <script src="https://a1.muscache.com/airbnb/static/packages/header_cookie-56dda9ed959e46e52ef7ec4f604f3f62.js" type="text/javascript"></script>
+
+    <script>
+
+      (function () {
+        var initData = BootstrapData.get('header-init');
+        var country = initData ? initData.tld_country : "US";
+        var headerContainer = document.getElementById('header');
+        var newHeader = document.getElementById('new-header');
+        var oldHeader = document.getElementById('old-header');
+        var useNewHeader = function () {
+          J(document.body).addClass('with-new-header');
+          headerContainer.removeChild(oldHeader);
+        };
+        var useOldHeader = function () {
+          headerContainer.removeChild(newHeader);
+        };
+
+        if (country === "IT" || country === "TW" || country === "CA") {
+          Airbnb.ERF.deliverExperiment(
+            'the_new_header_take_3',
+            {
+              new_header: useNewHeader,
+              old_header: useOldHeader,
+              treatment_unknown: useOldHeader
+            }
+          );
+        } else {
+          useOldHeader();
+        }
+      })();
+</script>
+      <div class="flash-container"></div>
+
+    <main id="site-content" role="main">
+      
+<div class="subnav">
+  <div class="page-container-responsive">
+    <ul class="subnav-list">
+        <li>
+          <a class="subnav-item" href="terms"
+             aria-selected="true">
+            Условия предоставления услуг
+          </a>
+        </li>
+        <li>
+          <a class="subnav-item" href="https://www.airbnb.ru/terms/privacy_policy"
+             aria-selected="">
+            Политика конфиденциальности
+          </a>
+        </li>
+        <li>
+          <a class="subnav-item" href="https://www.airbnb.ru/terms/host_guarantee"
+             aria-selected="">
+            Гарантия для хозяев
+          </a>
+        </li>
+        <li>
+          <a class="subnav-item" href="https://www.airbnb.ru/terms/guest_refund_policy"
+             aria-selected="">
+            Возврат гостю
+          </a>
+        </li>
+        <li>
+          <a class="subnav-item" href="https://www.airbnb.ru/terms/copyright_policy"
+             aria-selected="">
+            Политика об интеллектуальной собственности
+          </a>
+        </li>
+        <li>
+          <a class="subnav-item" href="https://www.airbnb.ru/terms/safe_harbor_notice"
+             aria-selected="">
+            Safe Harbor
+          </a>
+        </li>
+    </ul>
+  </div>
+</div>
+
+<div class="page-container-responsive">
+  <div class="row-space-top-6 row-space-16">
+    <h1>Условия предоставления услуг</h1>
+    <p>ПОЖАЛУЙСТА, ПРОЧТИТЕ ЭТИ УСЛОВИЯ ПРЕДОСТАВЛЕНИЯ УСЛУГ ВНИМАТЕЛЬНО, ПОСКОЛЬКУ ОНИ СОДЕРЖАТ ВАЖНУЮ ИНФОРМАЦИЮ О ВАШИХ ЮРИДИЧЕСКИХ ПРАВАХ, СРЕДСТВАХ ЗАЩИТЫ И ВАШИХ ОБЯЗАННОСТЯХ. ЭТО ВКЛЮЧАЕТ РАЗЛИЧНЫЕ ОГРАНИЧЕНИЯ И ИСКЛЮЧЕНИЯ, СТАТЬЮ, ОПРЕДЕЛЯЮЩУЮ ПРИМЕНИМЫЕ ЮРИСДИКЦИЮ И МЕСТО РАССМОТРЕНИЯ СПОРОВ, А ТАКЖЕ ОБЯЗАТЕЛЬСТВО СОБЛЮДАТЬ ПРИМЕНИМЫЕ ЗАКОНЫ И ПОДЗАКОННЫЕ АКТЫ.</p>
+
+<p>В ЧАСТНОСТИ, ХОЗЯЕВА ДОЛЖНЫ ПОНИМАТЬ, КАКИМ ОБРАЗОМ ДЕЙСТВУЮТ ЗАКОНЫ В ИХ СООТВЕТСТВУЮЩИХ ГОРОДАХ. В НЕКОТОРЫХ ГОРОДАХ СУЩЕСТВУЮТ ЗАКОНЫ, КОТОРЫЕ ОГРАНИЧИВАЮТ ИХ ВОЗМОЖНОСТЬ РАЗМЕЩАТЬ ГОСТЕЙ ЗА ПЛАТУ НА КОРОТКИЕ СРОКИ. ВО МНОГИХ ГОРОДАХ ХОЗЯЕВА ОБЯЗАНЫ ОСУЩЕСТВИТЬ РЕГИСТРАЦИЮ, ПОЛУЧИТЬ РАЗРЕШЕНИЕ ИЛИ ЛИЦЕНЗИЮ ПЕРЕД РАЗМЕЩЕНИЕМ ОБЪЯВЛЕНИЙ В ОТНОШЕНИИ НЕДВИЖИМОГО ИМУЩЕСТВА ИЛИ ДО ПРИНЯТИЯ ГОСТЕЙ. НЕКОТОРЫЕ ВИДЫ КРАТКОСРОЧНОГО БРОНИРОВАНИЯ МОГУТ БЫТЬ ЗАПРЕЩЕНЫ ПОЛНОСТЬЮ. МЕСТНЫЕ ОРГАНЫ ВЛАСТИ В ЗНАЧИТЕЛЬНОЙ СТЕПЕНИ РАЗЛИЧАЮТСЯ С ТОЧКИ ЗРЕНИЯ ТОГО, КАК ОНИ ПРИМЕНЯЮТ ДАННЫЕ ЗАКОНЫ. НАКАЗАНИЯ МОГУТ ВКЛЮЧАТЬ ШТРАФЫ ИЛИ ИНЫЕ МЕРЫ ПРАВОПРИМЕНЕНИЯ. ХОЗЯЕВАМ СЛЕДУЕТ ИЗУЧИТЬ МЕСТНЫЕ ЗАКОНЫ ПЕРЕД РАЗМЕЩЕНИЕМ ОБЪЯВЛЕНИЯ О МЕСТЕ НА AIRBNB.</p>
+
+<p>Дата последнего обновления: 30 июня 2014</p>
+
+<p><b><u>УСЛОВИЯ ПРЕДОСТАВЛЕНИЯ УСЛУГ</u></b></p>
+
+<p>Если вы используете Сайт, Приложение или Услуги и проживаете в Соединенных Штатах Америки, вы вступаете в договорные отношения с компанией Airbnb, Inc. (Эйр-би-эн-би, Инк.) в отношении использования Сайта, Приложения или Услуг и компанией Airbnb Payments, Inc. (Эйр-би-эн-би Пэйментс, Инк.) в отношении любых ваших платежей или выплат в вашу пользу, осуществляемых посредством Сайта, Приложения или Услуг. Если вы проживаете за пределами Соединенных Штатов Америки, вы вступаете в договорные отношения с компанией Airbnb Ireland (Эйр-би-эн-би Айрленд). Если вы первоначально проживали в Соединенных Штатах Америки и вступили в договорные отношения с компанией Airbnb, Inc. и/или Airbnb Payments, Inc., но в дальнейшем измените место жительства и оно будет находиться за пределами Соединенных Штатов Америки, вы вступите в договорные отношения с компанией Airbnb Ireland с момента изменения вашего места жительства, и наоборот. (Компании Airbnb, Inc., Airbnb Ireland и Airbnb Payments, Inc. (последняя исключительно в отношении деятельности, касающейся выплат и платежей) в дальнейшем именуются «<b>Airbnb</b>», «<b>мы</b>», «<b>нас</b>», «<b>нам</b>», «<b>нами</b>» или «<b>наш</b>»). Компании Airbnb Payments, Inc. и Airbnb Ireland должны, в зависимости от контекста, по отдельности или совместно именоваться компанией или компаниями «<b>Airbnb Payments</b>».</p>
+
+<p>Компания Airbnb предоставляет онлайн-платформу, которая соединяет хозяев недвижимости для аренды с гостями, желающими снять такую недвижимость (совместно - «<b>Услуги</b>»); такие Услуги предлагаются на <a href="http://www.airbnb.com" target="_blank">www.airbnb.com</a> и других веб-сайтах, с помощью которых компания Airbnb предлагает свои Услуги (совместно именуемые «<b>Сайт</b>»), а также с помощью приложения для мобильных устройств («<b>Приложение</b>»). Используя Сайт или Приложение, вы соглашаетесь соблюдать и быть связанным условиями и положениями настоящих Условий предоставления услуг («<b>Условия</b>»), вне зависимости от того, станете ли вы зарегистрированным пользователем Услуг. Настоящие Условия регламентируют ваш доступ и использование Сайта, Приложения и Услуг, всего Общего контента (определение представлено ниже), а также ваше участие в Программе рекомендаций (определение представлено ниже) и являются юридически обязывающим соглашением между вами и компанией Airbnb. Просим Вас также внимательно прочитать нашу Политику конфиденциальности, доступной по адресу: <a href="http://www.airbnb.ru/terms/privacy_policy" target="_blank">http://www.airbnb.ru/terms/privacy_policy</a>. Если вы не согласны с настоящими Условиями, вы не имеете права получать информацию или продолжать иным образом использовать Сайт, Приложение или Услуги. Использование Сайта и Приложения с несоблюдением настоящих Условий может повлечь за собой гражданскую и уголовную ответственность.</p>
+
+<p>САЙТ, ПРИЛОЖЕНИЕ И УСЛУГИ ПРЕДСТАВЛЯЮТ СОБОЙ ОНЛАЙН-ПЛАТФОРМУ, ПРИ ПОМОЩИ КОТОРОЙ ХОЗЯЕВА (ОПРЕДЕЛЕНИЕ ПРЕДСТАВЛЕНО НИЖЕ) МОГУТ СОЗДАВАТЬ ОБЪЯВЛЕНИЯ (ОПРЕДЕЛЕНИЕ ПРЕДСТАВЛЕНО НИЖЕ) ДЛЯ МЕСТ ОТДЫХА/ПРОЖИВАНИЯ (ОПРЕДЕЛЕНИЕ ПРЕДСТАВЛЕНО НИЖЕ), А ГОСТИ (ОПРЕДЕЛЕНИЕ ПРЕДСТАВЛЕНО НИЖЕ) МОГУТ ПОЛУЧАТЬ ИНФОРМАЦИЮ О МЕСТАХ ОТДЫXA/ПРОЖИВАНИЯ И БРОНИРОВАТЬ ИХ НЕПОСРЕДСТВЕННО У ХОЗЯЕВ. ВЫ ПОНИМАЕТЕ И СОГЛАШАЕТЕСЬ, ЧТО КОМПАНИЯ AIRBNB НЕ ЯВЛЯЕТСЯ СТОРОНОЙ КАКИХ-ЛИБО СОГЛАШЕНИЙ, ЗАКЛЮЧАЕМЫХ МЕЖДУ ХОЗЯЕВАМИ И ГОСТЯМИ, КОМПАНИЯ AIRBNB ТАКЖЕ НЕ ЯВЛЯЕТСЯ БРОКЕРОМ НЕДВИЖИМОСТИ, АГЕНТОМ ИЛИ СТРАХОВОЙ КОМПАНИЕЙ. КОМПАНИЯ AIRBNB НЕ КОНТРОЛИРУЕТ ПОВЕДЕНИЕ ХОЗЯЕВ, ГОСТЕЙ И ПРОЧИХ ПОЛЬЗОВАТЕЛЕЙ САЙТА, ПРИЛОЖЕНИЯ И УСЛУГ ИЛИ ЛЮБЫХ МЕСТ ОТДЫХА/ПРОЖИВАНИЯ И ОТКАЗЫВАЕТСЯ ОТ ЛЮБОЙ ОТВЕТСТВЕННОСТИ В ЭТОМ ОТНОШЕНИИ В МАКСИМАЛЬНО ДОПУСТИМОМ ПО ЗАКОНУ ОБЪЕМЕ.</p>
+
+<p><b>Ключевые термины</b></p>
+
+<p>«<b>Контент Airbnb</b>» означает весь Контент, который компания Airbnb предоставляет с помощью Сайта, Приложения или Услуг, включая любой Контент, полученный по лицензии от третьего лица, за исключением Контента Членов.</p>
+
+<p>«<b>Срок действия запроса о бронировании</b>» означает срок, начинающийся с момента направления запроса о бронировании Гостем (как этот срок определяется компанией Airbnb по ее единоличному усмотрению), в течение которого Хозяин может принять решение подтвердить или отклонить запрос о бронировании, как это предусмотрено Сайтом, Приложением или Услугами. В различных местах могут применяться различные Сроки действия запроса о бронировании. </p>
+
+<p>«<b>Общий контент</b>» означает Контент Членов и Контент Airbnb.</p>
+
+<p>«<b>Контент</b>» означает текст, графические элементы, изображения, музыку, программное обеспечение (за исключением Приложения), аудио-, видеоматериалы, информацию и прочие материалы.</p>
+
+<p>«<b>Гость</b>» означает Члена, который обращается к Хозяину с запросом о бронировании Места отдыха/проживания с помощью Сайта, Приложения или Услуг, или Члена, который останавливается в Месте отдыха/проживания и не является Хозяином такого Места отдыха/проживания.</p>
+
+<p>«<b>Хозяин</b>» означает Члена, размещающего Объявление с помощью Сайта, Приложения или Услуг.</p>
+
+<p>«<b>Объявление</b>» означает Место отдыха/проживания, информация о котором размещена Хозяином и которое предлагается для аренды с помощью Сайта, Приложения и Услуг.</p>
+
+<p>«<b>Член</b>» означает лицо, прошедшее процесс регистрации аккаунта в Airbnb, включая, помимо прочего, Хозяев и Гостей, как описано в разделе «Регистрация Аккаунта» ниже.</p>
+
+<p>«<b>Контент Членов</b>» означает весь Контент, который Члены могут размещать, загружать, публиковать, подавать или передавать, чтобы доступ к нему был возможен с помощью Сайта, Приложения или Услуг.</p>
+
+<p>«<b>Налог</b>» или «<b>Налоги</b>» означает налог с продаж, налог на добавленную стоимость (НДС), налог на товары и услуги, налог на временное размещение, туристические и иные налоги на посетителей, налоги на предоставление жилья и размещение, сборы (такие как сбор за использования места для проведения конференций), которые предоставляющие жилье лица по закону могут быть обязаны собрать и перечислить государственным органам, и прочие похожие муниципальные налоги, налоги штата, федеральные и национальные косвенные налоги, прочие удержания и личные или корпоративные подоходные налоги.</p>
+
+<p>В некоторых разделах Сайта и Приложения (а также для целей вашего доступа или использования определенных аспектов Услуг или Общего контента) могут публиковаться иные условия использования, либо от вас может потребоваться, чтобы вы дали свое согласие и приняли дополнительные условия. Если между настоящими Условиями и условиями, опубликованными в отношении определенного раздела Сайта, Приложения, Услуг или Общего контента существуют расхождения, преимущественную силу в отношении вашего пользования или доступа к этому разделу Сайта, Приложения, Услуг или Общего контента будут иметь последние.</p>
+
+<p>ВЫ ПОДТВЕРЖДАЕТЕ И СОГЛАШАЕТЕСЬ, ЧТО ОСУЩЕСТВЛЯЯ ДОСТУП ИЛИ ИСПОЛЬЗУЯ САЙТ, ПРИЛОЖЕНИЕ ИЛИ УСЛУГИ, ЛИБО ЗАГРУЖАЯ ИЛИ РАЗМЕЩАЯ ЛЮБОЙ КОНТЕНТ С САЙТА ИЛИ НА САЙТЕ, С ПОМОЩЬЮ ПРИЛОЖЕНИЯ ИЛИ УСЛУГ, ЛИБО УЧАСТВУЯ В ПРОГРАММЕ РЕКОМЕНДАЦИЙ, ВЫ ТЕМ САМЫМ ЗАЯВЛЯЕТЕ, ЧТО ВЫ ПРОЧИТАЛИ, ПОНИМАЕТЕ И СОГЛАШАЕТЕСЬ СОБЛЮДАТЬ НАСТОЯЩИЕ УСЛОВИЯ, ВНЕ ЗАВИСИМОСТИ ОТ ТОГО, ЗАРЕГИСТРИРОВАЛИСЬ ЛИ ВЫ НА САЙТЕ И В ПРИЛОЖЕНИИ. ЕСЛИ ВЫ НЕ СОГЛАСНЫ С НАСТОЯЩИМИ УСЛОВИЯМИ, ВЫ НЕ ИМЕЕТЕ ПРАВА ОСУЩЕСТВЛЯТЬ ДОСТУП ИЛИ ИСПОЛЬЗОВАТЬ САЙТ, ПРИЛОЖЕНИЕ, УСЛУГИ ИЛИ ОБЩИЙ КОНТЕНТ, ЛИБО УЧАСТВОВАТЬ В ПРОГРАММЕ РЕКОМЕНДАЦИЙ. Если вы принимаете или соглашаетесь на настоящие Условия от имени компании или другого юридического лица, вы тем самым заявляете и гарантируете, что вы имеете полномочия связывать такую компанию или другое юридическое лицо настоящими Условиями, и в таком случае слова «вы» и «ваш» будут относиться к такой компании или другому юридическому лицу.</p>
+
+<p><b>Изменения</b></p>
+
+<p>Компания Airbnb сохраняет за собой право, по своему исключительному усмотрению, в любой момент и без предварительного уведомления вносить изменения в Сайт, Приложение или Услуги либо вносить изменения в настоящие Условия, в том числе в отношении Комиссии за обслуживание. Если мы внесем изменения в настоящие Условия, мы обязуемся опубликовать поправки на Сайте или в Приложении либо предоставить вам уведомление о внесении изменений. Мы также обновим «Дату последнего обновления» на первой странице настоящих Условий. Продолжая использовать Сайт, Приложение или Услуги в течение четырех недель после того, как мы внесли изменения в Сайт или Приложение и направили вам уведомление о внесении изменений, вы тем самым заявляете, что согласны соблюдать Условия с учетом изменений. Если изменные Условия являются для вас неприемлемыми, единственной мерой, к которой вы можете прибегнуть, является прекращение использования Сайта, Приложения и Услуг.</p>
+
+<p><b>Право использования</b></p>
+
+<p>Сайт, Приложение и Услуги предназначены для использования исключительно лицами, достигшими 18 лет. Осуществление доступа или использование Сайта, Приложения или Услуг любым лицом, не достигшим 18 лет, строго запрещено. Осуществляя доступ или используя Сайт, Приложение или Услуги, Вы заявляете и гарантируете, что ваш возраст составляет не менее 18 лет.</p>
+
+<p><b>Как работают Сайт, Приложение и Услуги</b></p>
+
+<p>Сайт, Приложение и Услуги могут использоваться для облегчения размещения объявлений и бронирования жилой и прочей недвижимости («<b>Места отдыха/проживания</b>»). Такие Места отдыха/проживания включаются в Объявления на Сайте, в Приложении и в Услуги Хозяевами. Вы можете просматривать Объявления в качестве незарегистрированного посетителя Сайта, Приложения и Услуг; однако, если вы хотите забронировать Место отдыха/проживания или создать Объявление, вы должны сначала зарегистрироваться и создать Аккаунт Airbnb (определение представлено ниже).</p>
+
+<p>Как указано выше, компания Airbnb предоставляет онлайн-платформу или торговую площадку, а также необходимые технологии, чтобы Гости и Хозяева могли обмениваться информацией онлайн и бронировать Места отдыха/проживания непосредственно друг с другом. Компания Airbnb не является владельцем или оператором недвижимости, включая, помимо прочего, гостиничные номера, номера в мотелях, иные места временного проживания или Места отдыха/проживания. Кроме того, она не предоставляет недвижимость, включая, помимо прочего, гостиничные номера, номера в мотелях, иные места временного проживания или Места отдыха/проживания. Компания Airbnb не владеет, не продает, не перепродает, не сдает в аренду, не пересдает в аренду, не управляет и/или не контролирует недвижимость, включая, помимо прочего, гостиничные номера, номера в мотелях, иные места временного проживания или Места отдыха/проживания, а также услуги транспортировки или перевозки. Если иное прямо не указано на платформе компании Airbnb, ответственность компании Airbnb ограничена; (i) обеспечением доступности Сайта, Приложения и Услуг и (ii) выступлением в роли платежного агента с ограниченными полномочиями для каждого из Хозяев для приема платежей от Гостей для Хозяев.</p>
+
+<p>ОБРАТИТЕ ВНИМАНИЕ НА ТО, ЧТО, КАК УКАЗАНО ВЫШЕ, САЙТ, ПРИЛОЖЕНИЕ И УСЛУГИ ПРЕДНАЗНАЧАЮТСЯ ДЛЯ ОБЛЕГЧЕНИЯ СОЕДИНЕНИЯ ХОЗЯЕВ И ГОСТЕЙ, А ТАКЖЕ БРОНИРОВАНИЯ МЕСТ ОТДЫХА/ПРОЖИВАНИЯ. КОМПАНИЯ AIRBNB НЕ МОЖЕТ КОНТРОЛИРОВАТЬ И НЕ КОНТРОЛИРУЕТ КОНТЕНТ В ЛЮБЫХ ОБЪЯВЛЕНИЯХ И УСЛОВИЯ, ЗАКОННОСТЬ ИЛИ ПРИГОДНОСТЬ КАКОГО-ЛИБО МЕСТА ОТДЫХА/ПРОЖИВАНИЯ. КОМПАНИЯ AIRBNB НЕ НЕСЕТ НИКАКОЙ ОТВЕТСТВЕННОСТИ ЗА КАКИЕ-ЛИБО ОБЪЯВЛЕНИЯ И МЕСТА ОТДЫХА/ПРОЖИВАНИЯ И ОТКАЗЫВАЕТСЯ ОТ ЛЮБОЙ ОТВЕТСТВЕННОСТИ, СВЯЗАННОЙ С ОБЪЯВЛЕНИЯМИ И МЕСТАМИ ОТДЫХА/ПРОЖИВАНИЯ. СООТВЕТСТВЕННО, ВСЕ ОПЕРАЦИИ ПО БРОНИРОВАНИЮ БУДУТ ОСУЩЕСТВЛЯТЬСЯ НА РИСК ГОСТЯ.
+<br /><b>Регистрация Аккаунта</b></p>
+
+<p>Для того чтобы воспользоваться определенными функциями Сайта и Приложения и забронировать Место отдыха/проживания или создать Объявление, вы должны зарегистрироваться для создания аккаунта («<b>Аккаунт Airbnb</b>») и стать Членом. Вы можете зарегистрироваться, чтобы начать использовать Услуги, непосредственно с помощью Сайта или Приложения, либо согласно инструкциям в данном разделе.</p>
+
+<p>Вы также можете зарегистрироваться, войдя в свой аккаунт на сайте социальной сети третьего лица («<b>SNS</b>») (включая, помимо прочего, Facebook; каждый такой аккаунт будет именоваться «<b>Сторонний Аккаунт</b>») с помощью нашего Сайта или Приложения, как указано ниже. В качестве одной из функций Сайта, Услуг и Приложения вы можете привязать свой Аккаунт Airbnb к Сторонним Аккаунтам одним из следующих способов: (i) предоставив свою информацию для входа в Сторонний Аккаунт компании Airbnb с помощью Сайта, Услуг или Приложения; или (ii) предоставив компании Airbnb доступ к вашему Стороннему Аккаунту в соответствии с соответствующими условиями, которые регламентируют использование вами каждого из Сторонних Аккаунтов. Вы подтверждаете, что имеете право предоставлять информацию для входа в Сторонний Аккаунт компании Airbnb и (или) предоставлять компании Airbnb доступ к вашему Стороннему Аккаунту (включая, помимо прочего, использование в целях, перечисленных здесь), не нарушая какие-либо из условий, которые регламентируют использование вами соответствующего Стороннего Аккаунта, не накладывая на компанию Airbnb обязанностей по оплате каких-либо сборов и не подвергая компанию Airbnb каким-либо ограничениям в отношении использования, предусмотренным соответствующими сторонними поставщиками услуг. Предоставляя компании Airbnb доступ к Сторонним Аккаунтам, вы понимаете, что компания Airbnb получит доступ, сделает доступным и будет хранить (если применимо) любой Контент, который вы предоставили и который вы храните в вашем Стороннем Аккаунте («<b>Контент SNS</b>»), чтобы сделать его доступным на Сайте, с помощью Услуг и Приложения в вашем Аккаунте Airbnb и на профильной странице Аккаунта Airbnb. Если иное не указано в настоящих Условиях, весь Контент SNS, если таковой имеется, будет считаться Контентом Членов для целей настоящих Условий. В зависимости от того, какие Сторонние Аккаунты вы выберете, и с учетом настроек приватности таких Сторонних Аккаунтов, информация, позволяющая установить личность, которую вы размещаете на своих Сторонних Аккаунтах, будет доступна на вашем Аккаунте Airbnb с помощью Сайта, Услуг и Приложения. Примите во внимание, что если Сторонний Аккаунт или связанная с ним услуга станут недоступными или если доступ компании Airbnb к такому Стороннему Аккаунту будет прекращен сторонним поставщиком услуг, то Контент SNS более не будет доступен на Сайте, с помощью Услуг и Приложения. Вы можете отключить связь между вашим Аккаунтом Airbnb и Сторонними Аккаунтами в любое время в разделе «Настройки» Сайта и Приложения. ОБРАТИТЕ ВНИМАНИЕ НА ТО, ЧТО ВАШИ ОТНОШЕНИЯ СО СТОРОННИМ ПОСТАВЩИКОМ УСЛУГ, СВЯЗАННЫМ С ВАШИМ СТОРОННИМ АККАУНТОМ, РЕГУЛИРУЮТСЯ ИСКЛЮЧИТЕЛЬНО ВАШИМ СОГЛАШЕНИЕМ(-ЯМИ) С ТАКИМИ СТОРОННИМИ ПОСТАВЩИКАМИ УСЛУГ. Компания Airbnb не предпринимает никаких мер по проверке Контента SNS в каких-либо целях, включая, помимо прочего, в целях обеспечения точности, законности или отсутствия нарушений прав, и компания Airbnb не несет ответственности за любой Контент SNS.</p>
+
+<p>Мы создадим ваш Аккаунт Airbnb и вашу профильную страницу Аккаунта Airbnb для использования вами Сайта и Приложения, исходя из личной информации, которую вы предоставите нам или которую мы получим через SNS, как описано выше. Вы не имеете права иметь более 1 (одного) активного Аккаунта Airbnb. Вы соглашаетесь предоставлять точную, актуальную и полную информацию в ходе процесса регистрации и обновлять такую информацию, чтобы обеспечить ее точность, актуальность и полноту. Компания Airbnb сохраняет за собой право приостановить или удалить ваш Аккаунт Airbnb, а также отказать вам в доступе к Сайту, Приложению и Услугам, если вы создадите более 1 (одного) Аккаунта Airbnb или если какая-либо информация, предоставленная в ходе процесса регистрации или впоследствии, окажется неточной, неактуальной или неполной. Вы несете ответственность за защиту вашего пароля. Вы соглашаетесь, что вы не будете разглашать ваш пароль никаким третьим лицам и что вы берете на себя единоличную ответственность за любые действия, совершенные под вашим Аккаунтом Airbnb, вне зависимости от того, дали ли вы разрешение на такие действия или нет. Вы должны немедленно уведомить компанию Airbnb о любом случае несанкционированного использования вашего Аккаунта Airbnb.</p>
+
+<p><b>Объявления о Местах отдыха/проживания</b></p>
+
+<p>В качестве Члена вы имеете право создавать Объявления. Для создания Объявления вам будет задано несколько вопросов о Месте отдыха/проживания, о котором вы хотите разместить Объявление, включая, помимо прочего, местонахождение, вместимость, площадь, особенности и доступность Места отдыха/проживания, а также цену, соответствующие правила и условия оплаты. Для того чтобы Место отдыха/проживания было включено в Объявление на Сайте, в Приложении и в Услугах, оно должно содержать действительный фактический адрес. Объявления будут сделаны общедоступными на Сайте, в Приложении и с помощью Услуг. Другие Члены смогут забронировать ваше Место отдыха/проживания с помощью Сайта, Приложения и Услуг, основываясь на информации, представленной в вашем Объявлении. Вы понимаете и соглашаетесь, что как только Гость подаст запрос о бронировании вашего Места отдыха/проживания, вы не вправе будете требовать от Гостя уплатить цену, превышающую цену, указанную в запросе о бронировании.</p>
+
+<p>Вы подтверждаете и соглашаетесь, что вы несете ответственность за все Объявления, которые вы размещаете. Соответственно, вы заявляете и гарантируете, что любое Объявление, которое вы разместите, и бронирование Гостем Места отдыха/проживания, указанного в Объявлении, которое вы разместите, либо проживание в нем (i) не нарушит никаких соглашений с третьими лицами, в которые вы вступили, например, соглашений объединений собственников жилья, соглашений в отношении многоквартирного дома, договоров аренды или найма, и (ii) будет (а) соответствовать всем применимым законам (таким как законы о зонировании и законы, регулирующие аренду жилой и прочей недвижимости), Налоговым требованиям, а также правилам и подзаконным актам, которые могут относиться к любому Месту отдыха/проживания, включенному в Объявление, которые вы разместите (включая наличие всех необходимых разрешений, лицензий и регистраций), и (b) не будет нарушать права третьих лиц. Обратите внимание, что компания Airbnb не берет на себя никакой ответственности за соблюдение Хозяином соответствующих соглашений или обязанностей перед третьими лицами, законов, норм и подзаконных актов. Компания Airbnb сохраняет за собой право в любое время без предварительного уведомления удалять или отключать доступ к любому Объявлению по любой причине, включая Объявления, которые компания Airbnb, по своему исключительному усмотрению, считает нежелательными по какой-либо причине, нарушающими настоящие Условия, текущие Политики и Коммунальные Руководства (по адресу <a href="http://www.airbnb.ru/help/policies" target="_blank">http://www.airbnb.ru/help/policies</a>), или иным образом неблагоприятными для Сайта, Приложения или Услуг.</p>
+
+<p>Если вы являетесь Хозяином, вы понимаете и соглашаетесь, что компания Airbnb не выступает в качестве страхового лица или вашего агента по заключению договоров. Если Гость направляет запрос о бронировании вашего Места отдыха/проживания и останавливается в вашем Месте отдыха/проживания, любое соглашение, в которое вы вступите с таким Гостем, заключается между вами и Гостем, и компания Airbnb не является стороной такого соглашения. Несмотря на вышеизложенное, компания Airbnb Payments выступает в качестве уполномоченного платежного агента с ограниченными полномочиями для Хозяина с целью принятия указанных Хозяином платежей от Гостей от имени Хозяина (включая плату за уборку или иную плату и/или Налоги).</p>
+
+<p>Когда вы создаете Объявление, вы также можете указать определенные требования, которым должны соответствовать Члены, чтобы получить возможность направить запрос о бронировании вашего Места отдыха/проживания, включая, помимо прочего, требование о том, чтобы Члены имели фотографию в профиле или прошедший проверку номер телефона, для того чтобы забронировать ваше Место отдыха/проживания. Любой Член, который желает забронировать Место отдыха/проживания, указанное в Объявлении с такими требованиями, должен им соответствовать. Дополнительная информация о том, как установить такие требования, приводится в разделе «Размещение объявлений» Сайта, Приложения и Услуг.</p>
+
+<p>Если вы являетесь Хозяином, компания Airbnb предоставляет вам некоторые средства, которые помогут вам принимать информированные решения о том, каких Членов вы выберете для подтверждения бронирования вашего Места отд ыха/проживания. Вы подтверждаете и соглашаетесь, что как Хозяин вы несете ответственность за ваши действия и бездействие, а также несете ответственность за действия и бездействие любых лиц, которые проживают или иным образом пребывают в Месте отдыха/проживания по вашей просьбе или приглашению, за исключением Гостя (и лиц, приглашенных Гостем в Место отдыха/проживания, если применимо).</p>
+
+<p>Компания Airbnb рекомендует, чтобы Хозяева имели необходимую страховку в отношении своего Места отдыха/проживания. Внимательно прочитайте страховой договор, который вы заключили в отношении вашего Места отдыха/проживания, и, в частности, убедитесь, что вы знаете и понимаете все исключения и любой нестрахуемый минимум, который может быть связан с таким страховым договором, включая, помимо прочего, условие о том, покрывает ли страховка действия или бездействие Гостей (и лиц, приглашенных Гостем в Место отдыха/проживания, если применимо), которые находятся в вашем Месте отдыха/проживания.</p>
+
+<p>Компания Airbnb может предложить Хозяевам опцию по организации фотосъемки Места отдыха/проживания фотографами. Если в качестве Хозяина вы примете решение поручить это фотографам; то полученные фотографии будут доступны для включения в ваше Объявление с водяным знаком или тегом с текстом "Airbnb Verified Photo" ("фотография проверена компанией Airbnb") либо аналогичным текстом ("<b>Проверенные изображения</b>"). Все изображения, материалы и контент, полученные данными фотографами, предоставленными компанией Airbnb, включая Проверенные изображения, являются Контентом Airbnb, вне зависимости от того, включите ли вы их в ваше Объявление.
+<br /><b>Отказ от предоставления поддержки</b></p>
+
+<p>Компания Airbnb не выражает своего одобения относительно какого-либо Члена или Места отдыха/проживания. Вы понимаете, что Проверенные изображения предназначены только для того, чтобы отображать в виде фотографий Место отдыха/проживания по состоянию на момент фотосъемки. Проверенные изображения, таким образом, не означают одобрения со стороны компании Airbnb относительно какого-либо Члена или какого-либо Места отдыха/проживания. В соответствии с настоящими Условиями Члены должны предоставлять точную информацию, и хотя компания Airbnb может проводить дополнительные проверки и осуществлять процессы, предназначенные для того, чтобы способствовать удостоверению или проверке личности или информации пользователей, мы не даем никаких заверений, не подтверждаем и не предоставляем одобрения в отношении какого-либо Члена или заявленной личности или информации о каком-либо из Членов.</p>
+
+<p>Любые обозначения на Сайте, в Приложении или Услугах в отношении "проверки" Члена, "наличия связи" с ним (либо иной подобный текст) означает исключительно то, что Член прошел соответствующий процесс подтверждения, и не являются заверениями в отношении чего бы то ни было иного. Любое такое описание не является выражением одобрения, свидетельством или гарантией со стороны компании Airbnb относительно какого-либо Члена, в том числе личности Члена и того, что он является благонадежным, безопасным или подходящим. Напротив, любое такое описание задумано как полезная информация, подлежащая оценке вами при принятии вами ваших решений относительно личности и пригодности других лиц, с которыми вы будете связываться или взаимодействовать с помощью Сайта, Приложения и Услуг. Таким образом, мы рекомендуем вам всегда проявлять должную осмотрительность при принятии решения относительно того, останавливаться ли у Хозяина или принимать ли запрос о бронировании у Гостя, либо осуществлять какое-либо иное взаимодействие с каким-либо иным Членом. За исключением условий, предусмотренных в Условиях гарантии Airbnb для Хозяев («<b>Гарантия Airbnb для Хозяев</b>», доступная по адресу <a href="http://www.airbnb.com/terms/host_guarantee" target="_blank">http://www.airbnb.com/terms/host_guarantee</a>), которые представляют собой соглашение между компанией Airbnb и Хозяевами, мы не несем ответственности за какой-либо ущерб или вред, причиненный в результате вашего взаимодействия с другими Членами.</p>
+
+<p>Используя Сайт, Приложение или Услуги, вы соглашаетесь, что любое средство правовой защиты или мера ответственности, к которым вы прибегнете в связи с действиями или бездействием других Членов или других третьих лиц, ограничиваются иском против определенных Членов или других третьих лиц, которые причинили вам вред. Вы соглашаетесь, что вы не будете предпринимать попыток привлечь к ответственности компанию Airbnb или использовать средства правовой защиты против нее в отношении таких действий или бездействия. Соответственно, мы рекомендуем вам связываться непосредственно с другими Членами с помощью Сайта и Услуг в связи с бронированием или в отношении Объявления, размещенного вами. Это ограничение не должно применяться к каким-либо претензиям Хозяина к компании Airbnb, связанным с перечислением денег, полученных от Гостя, компанией Airbnb в пользу Хозяина, а должно подчиняться ограничениям, описанным в разделе «Ограничение ответственности», приведенном ниже.</p>
+
+<p><b>Бронирование и условия оплаты</b></p>
+
+<p><i>Основные определения</i></p>
+
+<p>"<b>Плата за Место отдыха/проживания</b>” означает суммы, подлежащие выплате и выплачиваемые Гостем за размещение Гостя в Месте отдыха/проживания. Данные суммы единолично определяюся Хозяином, а не компанией Airbnb. Хозяин вправе по собственному усмотрению принимать решение о том, включать ли в данные суммы (i) плату за уборку или любую иную плату, разрешенную на платформе Airbnb, либо (ii) Налоги, относительно которых Хозяин полагает, что он должен их собрать.</p>
+
+<p>"<b>Гостевой сбор</b>" означает сбор, который компания Airbnb взимает с Гостя за использование ее онлайн-платформы; который расчитывается как процент от соответствующей Платы за Место отдыха/проживания. Размер Гостевого сбора будет указан Гостю в тот момент, когда Гостю будет задан вопрос о том, следует ли направлять запрос о бронировании Хозяину.</p>
+
+<p>"<b>Сбор с Хозяина</b>" означает сбор, который компания Airbnb взимает с Хозяина за использование ее онлайн-платформы, который расчитывается как процент от соответствующей Платы за Место отдыха/проживания. Сбор с Хозяина будет указываться Хозяину вместе с вопросом о том, желает ли Хозяин подтвердить или отклонить запрос о бронировании от потенциального Гостя.</p>
+
+<p>"<b>Комиссия за обслуживание</b>" означает совместно Гостевой сбор и Сбор с Хозяина.</p>
+
+<p>"<b>Общая стоимость</b>" означает совместно Плату за Место отдыха/проживания и Гостевой сбор (а также любые Налоги в отношении Гостевого сбора, например, НДС в Европе).</p>
+
+<p><i>Бронирование и условия оплаты для Хозяев</i></p>
+
+<p>Если вы являетесь Хозяином и в отношении вашего Места отдыха/проживания был направлен запрос о бронировании с помощью Сайта, Приложения и Услуг, вы должны будете подтвердить или отклонить запрос о бронировании в течение Срока действия запроса о бронировании, в противном случае запрос о бронировании будет автоматически аннулирован. Когда с помощью Сайта, Приложения или Услуг будет направлен запрос о бронировании, мы направим вам (i) имя и фамилию Гостя, который направил запрос, (ii) ссылку на профильную страницу Аккаунта Airbnb Гостя, (iii) имена любых участников SNS, с которыми вы «дружите» или связаны в SNS; если такие лица также являются «друзьями» или связаны с Гостем в SNS, и (iv) подтверждение; что имя, которое Гость предоставил компании Airbnb, когда Гость стал Членом, соответствует имени, которое Гость указал на сайтах SNS, с которыми Гость связал свой Аккаунт Airbnb, чтобы вы могли просмотреть такую информацию, прежде чем подтвердить запрос о бронировании или отказаться от него. Если вы не можете подтвердить или решаете отклонить запрос о бронировании  в течение Срока действия запроса о бронировании, любые суммы, собранные компанией Airbnb за запрошенное бронирование, будут возвращены соответствующему Гостю на его кредитную карточку и любая предварительная авторизация снятия денежных средств с такой кредитной карточки будет отменена. Если вы подтвердите запрос о бронировании, направленный Гостем, компания Airbnb отправит вам электронное сообщение, текстовое сообщение или сообщение через Приложение с подтверждением данного бронирования, в зависимости от того, какие настройки вы выберите с помощью Сайта, Приложения и Услуг.</p>
+
+<p>Компания Airbnb Payments взимает Общую стоимость в момент подтверждения бронирования (то есть когда Хозяин подтверждает запрос о бронировании) и инициирует перевод суммы Платы за Место отдыха/проживания Хозяину (за вычетом Гостевых сборов компании Airbnb, а также любых налогов в отношении Сбора с Хозяина, например, НДС в Европе) в течение 24 часов с того момента, как Гость прибудет в соответствующее Место отдыха/проживания (за исключением тех случаев, когда Гостю полагается выплата денежного возмещения). Сроки получения выплат Хозяином могут различаться в зависимости от выбранного Хозяином способа получения выплат. Некоторые способы предусматривают использование сторонних компаний по обработке платежей, которые могут взимать с Хозяина свои собственные дополнительные сборы за использование их услуг, в том числе путем удержания их сборов из суммы выплаты.</p>
+
+<p>Если вы должны или соглашаетесь выплатить какие-либо суммы с помощью компании Airbnb Payments в пользу компании Airbnb (как в результате ваших бронирований, действий в качестве Гостя, так и по другим основаниям), компания Airbnb Payments будет вправе (но не обязана) удержать любые суммы, причитающиеся компании Airbnb, из сумм любых выплат, причитающихся вам в качестве Хозяина, и использовать удержанные суммы для зачета сумм вашей задолженности перед компанией Airbnb. В случае если компания Airbnb Payments совершит такие действия, ваше платежное обязательство перед компанией Airbnb сократится в размере на сумму, удержанную компанией Airbnb Payments, а у компании Airbnb прекратятся любые обязательства (включая, в частности, любое платежное обязательство перед вами) в отношении удержанных сумм. </p>
+
+<p><i>Назначение компании Airbnb Payments в качестве платежного агента Хозяина с ограниченными полномочиями</i></p>
+
+<p>Каждый Хозяин назначает компанию Airbnb Payments агентом с ограниченными полномочиями исключительно с целью получения от Гостей Платы за Места отдыха/проживания.</p>
+
+<p>Каждый Хозяин соглашается с тем, что платежи от Гостей, произведенные с помощью компании Airbnb Payments, должны быть равноценны платежам, полученным Хозяином напрямую, и Хозяин будет обязан предоставить Место отдыха/проживания для Гостя на тех же условиях, как если бы сам Хозяин получил Плату за Место отдыха/проживания. Каждый Хозяин соглашается с тем, что компания Airbnb вправе в соответствии с правилами отмены заказа, выбранными Хозяином и отраженными в соответствующем Объявлении, (i) разрешить Гостю отменить бронирование и (ii) возместить (с помощью компании Airbnb Payments) Гостю ту часть Платы за Место отдыха/проживания, которая была обозначена в соответствующих правилах отмены заказа. Каждый Хозяин понимает, что поскольку компания Airbnb Payments принимает от Гостей платежи в качестве платежного агента Хозяина с ограниченными полномочиями, обязанность компании Airbnb Payments выплатить деньги Хозяину обусловлена успешным получением соответствующих средств от Гостей. Принимая назначение в качестве уполномоченного агента Хозяина с ограниченными полномочиями, компания Airbnb Payments не несет ответственности за действия или бездействие Хозяина.</p>
+
+<p>Обратите внимание на то, что компания Airbnb в настоящее время не взимает плату за размещение Объявлений. Однако как Хозяин вы подтверждаете и соглашаетесь, что компания Airbnb сохраняет за собой право по своему единоличному усмотрению взимать с вас плату за размещение Объявлений. Обратите внимание на то, что компания Airbnb уведомит об установлении какой-либо платы за размещение Объявлений с помощью Сайта, Приложения и Услуг, прежде чем внедрить такую плату за размещение Объявлений.</p>
+
+<p><i>Бронирование и условия оплаты для Гостей</i></p>
+
+<p>Хозяева, а не компания Airbnb, несут единоличную ответственность за соблюдение условий подтвержденного запроса о бронировании и предоставление Места отдыха/проживания, забронированного с помощью Сайта, Приложения и Услуг. Если вы в качестве Гостя заключите сделку с Хозяином о бронировании Места отдыха/проживания, вы соглашаетесь и понимаете, что вы должны будете заключить соглашение с Хозяином, и соглашаетесь принять любые условия, положения, правила и ограничения, связанные с использованием Места отдыха/проживания, устанавливаемые Хозяином. Вы подтверждаете и соглашаетесь, что вы, а не компания Airbnb, будете нести ответственность за выполнение обязательств по любому такому соглашению, что компания Airbnb не является стороной таких соглашений и что, за исключением платежей, оговоренных в настоящих Условиях, компания Airbnb не несет никакой ответственности, возникающей из подобных соглашений или связанной с ними. Вы подтверждаете и соглашаетесь с тем, что несмотря на то, что компания Airbnb не является одной из сторон соглашения между вами и Хозяином, компания Airbnb Payments выступает в качестве агента Хозяина по приему платежей с ограниченной целью приема ваших платежей от имени Хозяина. После выплаты вами Общей стоимости в адрес компании Airbnb Payments, ваши денежные обязательства перед Хозяином в отношении Платы за Место отдыха/проживания прекращаются, и компания Airbnb Payments несет ответветственность за перечисление Платы за Место отдыха/проживания Хозяину (за вычетом Сбора с Хозяина и любых Налогов в отношении Сбора с Хозяина, таких как НДС в Европе), в порядке, предусмотренном настоящими Условиями. В случае если компания Airbnb Payments не перечислит какие-либо из данных сумм в порядке, предусмотренном настоящими Условиями, Хозяин имеет право требовать этот платеж исключительно от соответствующего юридического лица Airbnb.</p>
+
+<p>Общая стоимость, подлежащая выплате, будет указана Гостю до того, как Гость направит запрос о бронировании Хозяину. Как указано выше, Хозяин должен подтвердить или отклонить запрос о бронировании в течение Срока действия запроса о бронировании, в противном случае запрос о бронировании будет автоматически аннулирован. Если запрос о бронировании аннулирован (то есть не подтвержден соответствующим Хозяином), любые суммы, полученные компанией Airbnb Payments, будут возвращены такому Гостю, в зависимости от настроек, выбранных Гостем с помощью Сайта или Приложения, и любая предварительная авторизация списания денежных средств с такой кредитной карточки будет отменена.</p>
+
+<p>Как Гость вы соглашаетесь выплатить компании Airbnb Payments Общую стоимость за любое бронирование, связанное с вашим Аккаунтом Airbnb, если такой запрос о бронировании подтвержден соответствующим Хозяином. Для того чтобы создать запрос о бронировании, ожидающий подтверждения соответствующим Хозяином, вы понимаете и соглашаетесь, что компания Airbnb, от имени Хозяина, сохраняет за собой право по своему единоличному усмотрению (i) получить предварительную авторизацию на списание денежных средств с вашей кредитной карточки в размере Общей стоимости или (ii) снять с вашей кредитной карточки номинальную сумму, не превышающую один доллар ($1), или подобную сумму в валюте той страны, в которой вы совершаете операции (например, один Евро или один Фунт стерлингов) в целях проверки подлинности вашей кредитной карточки. После того как компания Airbnb получит подтверждение вашего бронирования от соответствующего Хозяина, компания Airbnb Payments снимет Общую стоимость в соответствии с настоящими Условиями и расценками, указанными в соответствующем Объявлении. Обратите внимание на то, что компания Airbnb не может контролировать какие-либо сборы, которые могут взиматься с Гостя его банком в связи с взиманием компанией Airbnb Общей стоимости, и компания Airbnb отказывается от любой ответственности в этом отношении.</p>
+
+<p>В связи с вашим запросом о бронировании вас попросят предоставить компании Airbnb Payments или сторонней(-им) компании(-ям) по обработке платежей стандартную информацию для выставления счета, например, имя, адрес для выставления счета и информацию о кредитной карточке. Вы соглашаетесь оплатить компании Airbnb любое подтвержденное бронирование в связи с вашим Аккаунтом Airbnb в соответствии с настоящими Условиями одним из способов, описанных на Сайте или в Приложении, например, через PayPal или кредитной карточкой. Вы настоящим разрешаете взимание таких сумм путем снятия денежных средств с кредитной карточки, указанной в запросе о бронировании, либо непосредственно компанией Airbnb Payments, либо опосредованно через стороннюю компанию по обработке платежей, либо одним из способов, описанных на Сайте или в Приложении. Вы также разрешаете компании Airbnb Payments снимать с вашей кредитной карточки денежные средства в случае причинения ущерба в Месте отдыха/проживания, как предусмотрено разделом «Ущерб, причиненный Месту отдыха/проживания» ниже, а также в счет оплаты Гарантийного депозита, если применимо. Если вы будете перенаправлены на страницу сторонней(-их) компании(-ий) по обработке платежей компании Airbnb Payments, вы можете подпасть под действие условий, регулирующих использование услуг такой сторонней компании, а также правил сбора личной информации такой сторонней компанией. Пожалуйста, ознакомьтесь с данными условиями, а также политикой конфиденциальности, прежде чем использовать услуги. После того как операция по подтверждению вашего бронирования будет выполнена, вы получите подтверждение по электронной почте с краткой информацией о подтвержденном бронировании. 
+<br /><b>Гарантийные депозиты</b></p>
+
+<p>Хозяева могут включать гарантийные депозиты в свои Объявления («<b>Гарантийный депозит</b>»). Каждое Объявление указывает, требуется ли гарантийный депозит для бронирования соответствующего Места отдыха/проживания. Если Гарантийный депозит указан в Объявлении, по которому подтверждено бронирование Места отдыха/бронирования, компания Airbnb Payments, действуя как агент Хозяина по приему платежей, предпримет все коммерчески разумные усилия для того, чтобы получить предварительную авторизацию на списание денежных средств с кредитной карточки Гостя на сумму, которую Хозяин укажет в качестве Гарантийного депозита, в разумные сроки до прибытия Гостя в соответствующее Место отдыха/проживания Хозяина. Компания Airbnb также предпримет все коммерчески разумные усилия, чтобы ответить на все просьбы и претензии Хозяев, связанные с Гарантийными депозитами, но компания Airbnb не несет ответственности за управление и принятие Хозяевами каких-либо претензий, связанных с Гарантийными депозитами, и отказывается от любой ответственности в этой связи.</p>
+
+<p><b>Комиссия за обслуживание</b></p>
+
+<p>В качестве встречного предоставления за использование торговой онлайн-площадки и платформы компании Airbnb, компания Airbnb взимает Комиссию за обслуживание. Если применимо, в отношении Сборов с Хозяина и Гостевых сборов могут взиматься Налоги (например, НДС в Европе). Компания Airbnb Payments удерживает Сборы с Хозяина из сумм Платы за Место отдыха/проживания до перечисления итогового расчета Хозяину в соответствии с настоящими Условиями. Гостевой сбор, как указано выше, входит в Общую стоимость.</p>
+
+<p>Итоговый расчет будет перечислен Хозяину компанией Airbnb Payments с помощью чека, PayPal, прямого депонирования или другими способами оплаты, как указано на Сайте или в Приложении, в валюте, выбранной Хозяином, в зависимости от настроек, выбранных Хозяином с помощью Сайта, Приложения и Услуг. Суммы могут быть округлены в большую или меньшую сторону, как указано в разделе "Округление" ниже.</p>
+
+<p>Обратите внимание на то, что компания Airbnb Payments вправе прибавлять или вычитать стоимость обработки иностранной валюты в отношении любых платежей или выплат, осуществляемых компанией Airbnb в валюте, отличной от долларов США. Дополнительная информация о любых таких расходах или вычетах будет представлена на Сайте и в Приложении. Дополнительная информация о Комиссии за обслуживание представлена по адресу: <a href="http://www.airbnb.ru/help" target="_blank">http://www.airbnb.ru/help</a>. За исключением случаев, указанных в настоящих Условиях, сумма Комиссии за обслуживание возрату не подлежит.
+<br /><b>Общие условия бронирования и оплаты</b></p>
+
+<p><i>Отмена и возврат</i></p>
+
+<p>Если вы как Гость отмените свой запрос о бронировании до того, как запрос будет подтвержден Хозяином, компания Airbnb Payments произведет отмену всех предварительных авторизаций по вашей кредитной карте и/или возместит в разумные сроки все номинальные списанния, произведенные с вашей кредитной карты и связанные с запрошенным бронированием, в разумные с коммерческой точки зрения сроки. Если вы как Гость хотите отказаться от подтвержденного бронирования, выполненного с помощью Сайта, Приложения и Услуг до или после прибытия на Место отдыха/проживания, к такой отмене будут применяться правила отмены заказов, указанные в соответствующем Объявлении. Наша возможность возврата вам полученной от вас Платы за Место отдыха/проживания и других платежей будет зависеть от условий соответствующих правил отмены заказа. Подробности, касающиеся возврата и правил отмены заказа, доступны на Сайте и в Приложении. Гостевой сбор не подлежит возмещению вне зависимости от правил отмены заказа, выбранных Хозяином.</p>
+
+<p>Если Хозяин отменит подтвержденное бронирование, выполненное с помощью Сайта, Услуг и Приложения, (i) компания Airbnb Payments возместит Общую стоимость за такое бронирование соответствующему Гостю в разумные с коммерческой точки зрения сроки после отмены, и (ii) Гость получит электронное сообщение или другое сообщение от компании Airbnb с информацией об альтернативных Объявлениях и иной информацией. Если Гость направит запрос о бронировании по одному из альтернативных Объявлений и Хозяин такого альтернативного Объявления подтвердит запрос Гостя о бронировании, то Гость соглашается выплатить компании Airbnb Общую стоимость за подтвержденное бронирование Места отдыха/проживания по альтернативному Объявлению в соответствии с настоящими Условиями. Если Хозяин отменил подтвержденное бронирование, а вы как Гость не получили электронное сообщение или другое сообщение от компании Airbnb, обратитесь в компанию Airbnb по адресу: <a href="http://www.airbnb.ru/help/contact_us" target="_blank">http://www.airbnb.ru/help/contact_us</a>.</p>
+
+<p>Если в качестве Хозяина вы отмените подтвержденное бронирование, компания Airbnb может применить штрафы или меры в отношении вас или вашего Объявления, в том числе (i) опубликовать автоматический отзыв на ваше Объявление, сообщающий о том, что бронирование было отменено, (ii) оставить заблокированными или недоступными в календаре вашего Объявления даты отмененного бронирования или (iii) наложить сбор за отмену (который будет удержан из ваших будущих выплат). Вы будете уведомлены о случаях, когда применяется сбор за отмену, перед принятием решения об отмене.  </p>
+
+<p>В некоторых случаях компания Airbnb вправе по своему единоличному усмотрению принять решение о том, что необходимо либо желательно отменить подтвержденное бронирование, сделанное с помощью Сайта, Приложения и Услуг. Это может произойти по причинам, указанным в политике компании Airbnb относительно смягчающих обстоятельств по адресу: <a href="http://www.airbnb.ru/help/policies/cancellations_and_refunds#extenuating_circumstances" target="_blank">http://www.airbnb.ru/help/policies/cancellations_and_refunds#extenuating_circumstances</a>, либо по иным причинам. Компания Airbnb Payments также вправе по своему единоличному усмотрению принять решение о возмещении Гостю части или всех сумм, полученных от Гостя, в соответствии с Условиями компенсации Гостю, доступной по адресу: <a href="http://www.airbnb.ru/terms/guest_refund_policy" target="_blank">http://www.airbnb.ru/terms/guest_refund_policy</a>. Вы соглашаетесь с тем, что компания Airbnb и соответствующий Гость или Хозяин не будут нести никакой ответственности за такую отмену или возврат.</p>
+
+<p><i>Периодические платежи </i></p>
+
+<p>В некоторых случаях от Гостей может потребоваться совершать периодические платежи по частям для уплаты Общей стоимости, подлежащей выплате за подтвержденное бронирование, до начала их пребывания в соответствующем Месте отдыха/проживания (совместно - «<b>Периодические платежи</b>»). Дополнительная информация о Периодических платежах будет представлена с помощью Сайта, Приложения и Услуг. Если Периодические платежи относятся к подтвержденному бронированию, Гость разрешает компании Airbnb Payments от имени Хозяина взимать Общую стоимость, а Хозяин соглашается, что данное юридическое лицо Airbnb будет инициировать выплаты в пользу Хозяина частями и с периодичностью, связанной с соответствующими Периодическими платежами и указанной на Сайте, в Приложении и Услугах.</p>
+
+<p><i>Округление</i></p>
+
+<p>Компания Airbnb вправе по своему единоличному усмотрению округлять в большую или меньшую сторону суммы, которые подлежат уплате Гостями или Хозяевами либо в пользу Гостей или Хозяев до ближайшего целого функционального значения в валюте, в которой они представлены (например, до ближайшего целого числа долларов, евро или иной поддерживаемой валюты); так, в качестве примера, компания Airbnb округлит сумму 101,50 долларов до 102 долларов, а 101,49 до 101 доллара.</p>
+
+<p>Суммы в некоторых валютах выражены большими числами. В таких случаях компания Airbnb вправе определить функциональную базовую единицу, обозначающую 10, 100 или 1000 единиц представленной валюты; для примера, применительно к таким валютам компания Airbnb округлит в большую сторону 1045 до 1050 и в меньшую сторону 1044 до 1040, 35.450 в большую сторону до 35.500 и 35.449 в меньшую сторону до 35.400, либо 837.500 в большую сторону до 838.000, а 837.499 в  меньшую сторону до 837.000.</p>
+
+<p><i>Ошибки при обратке платежей</i></p>
+
+<p>Мы будем предпринимать меры для исправления любых ошибок, допущенных при обработке платежей, о которых нам станет известно. Данные меры могут включать списание или зачисление денежных средств (в зависимости от того, что применимо) тем же платежным способом, который использовался при первоначальной выплате вам или при вашем первоначальном платеже, таким образом, чтобы в итоге вы получили или выплатили верную сумму. 
+<br /><i>Пожертвования</i></p>
+
+<p>Некоторые Хозяева могут взять на себя обязательство пожертвовать часть средств, которые они получат от подтвержденных запросов о бронировании через Сайт, Приложение и Услуги, в определенную благотворительную организацию или на определенную благотворительную цель. Мы не берем на себя никакой ответственности за осуществление Хозяином в действительности пожертвования, обязательство совершить которое он принял на себя. В таких случаях за соблюдение всех законов и подзаконных актов, применимых к таким обязательствам и/или сбору средств, несет ответственность Хозяин.</p>
+
+<p><i>Налоги</i></p>
+
+<p>Налоговое законодательство может требовать от нас, чтобы мы собирали у наших Хозяев необходимую налоговую информацию, удерживали суммы налогов из выплат Хозяевам, или делали и то, и другое. Например, в соответствии с положениями Федеральной налоговой службы США (IRS) мы обязаны собирать документы по форме Федеральной налоговой службы США W-9 у наших Хозяев, находящихся в США, а также соответствующие документы по форме Федеральной налоговой службы США W-8 (например, форму W-8BEN) у Хозяев, не находящихся в США и разместивших по крайней мере одно Объявление в отношении США. Как Хозяин вы несете единоличную ответственность за поддержание информации в ваших налоговых формах в актуальном, полном и точном виде. Если вы как Хозяин не предоставите нам документацию, которую мы считаем достаточной для исполнения наших обязанностей (при наличии) по удержанию с вас платежей (например, если вы являетесь Хозяином в США и не предоставляете нам заполненные документы по форме  Федеральной налоговой службы США W-9 ), мы оставляем за собой право по собственному усмотрению приостановить все выплаты в ваш адрес до урегулирования ситуации, удержать данные суммы в соответствии с законодательством либо совершить и то, и другое.</p>
+
+<p>Вы как Хозяин понимаете и соглашаетесь, что вы несете единоличную ответственность за (i) определение применимых к вам требований по сдаче отчетности по Налогам, а также (ii) определение Налогов, которые должны быть включены, указание Налогов, подлежащих сбору, либо обязательств, относящихся к применимым Налогам, в Объявлениях. Вы также несете единоличную ответственность за перечисление соответствующим органам власти любых Налогов, указанных или полученных вами. Компания Airbnb не может предоставить и не предоставляет налоговые консультации каким-либо Членам Сайта.</p>
+
+<p>В тех случаях, когда это применимо, либо по просьбе Хозяина компания Airbnb может выдать такому Хозяину действительный счет-фактуру.</p>
+
+<p>Вы признаете и соглашаетесь, что уполномоченные государственные агентства, департаменты или органы власти ("<b>Налоговые органы</b>") в месте нахождения Вашего Места отдыха/проживания могут требовать, чтобы Хозяева собирали с Гостей Налоги в отношении сумм, выплаченных за право использовать и/или занимать место отдыха/проживания, и выплачивали Налоги соответствующим Налоговым органам. Законодательство в различных юрисдикциях может отличаться, однако данные налоги, как правило, должны собираться и выплачиваться как процент от арендной платы или Платы за Место отдыха/проживания, установленной Хозяевами, определенный платеж за день или в ином виде и иногда называются "налогами на размещение", "гостиничными сборами", "налогами на предоставление временного жилья", "налогами на временное проживание", "налогами с продаж и доходов от использования", "налогами на добавленную стоимость", "комнатными сборами" или "туристическими налогами" (далее "<b>Налоги на размещение</b>").</p>
+
+<p>В некоторых юрисдикциях компания Airbnb может по своему единоличному усмотрению принять решение об упрощении сбора с Гостей и выплате Налогов на размещение от имени и вместо Хозяев, если соответствующая налоговая юрисдикция накладывает на компанию Airbnb или Хозяев обязанность по сбору и выплате налогов. В любой юрисдикции, в которой мы принимаем решение об упрощении сбора и выплате Налогов на размещение, независимо от того, являетесь ли вы Гостем или Хозяином, вы настоящим поручаете и уполномочиваете компанию Airbnb Payments собирать Налоги на размещение с Гостей от имени и вместо Хозяев при получении Платы за Место отдыха/проживания, и выплачивать такие Налоги на размещение Налоговым органам. В тех случаях когда компания Airbnb упрощает сбор или выплату Налогов на размещение в юрисдикции в первый раз, компания Airbnb направит уведомление существующим Хозяевам, имеющим Объявления о Местах отдыха/проживания в таких юрисдикциях. Размер Налогов на размещение, собираемых и выплачиваемых при содействии компании Airbnb, при наличии таковых, будет виден и отдельно указан как для Гостей, так и для Хозяев на их соответствующих документах об их сделках. Гости и Хозяева соглашаются с тем, что в любой юрисдикции, где компания Airbnb упрощает сбор и выплату Налогов на размещение от имени и вместо Хозяев, такие Хозяева не вправе также собирать и/или выплачивать такие налоги в отношении какой-либо части Платы за Место отдыха/проживания. Хозяева и Гости признают и соглашаются с тем, что в некоторых юрисдикциях компания Airbnb может не иметь возможности упростить сбор и выплату Налогов на размещение. В любой юрисдикции, в которой мы не упростили сбор и выплату Налогов на размещение Налоговым органам и не направили уведомления об этом, Хозяева и Гости продолжают нести единоличную ответственность за сбор и/или выплату любых и всех Налогов на размещение, которые могут действовать в отношении Места отдыха/проживания. Применительно к любой юрисдикции, в которой мы упрощаем сбор и выплату Налогов на размещение, Хозяева и Гости прямо разрешают нам передачу данных и иной информации, связанной с Налогами на размещение, при наличии таковых, собираемых и выплачиваемых в связи с вашими сделками.</p>
+
+<p>Вне зависимости от того, являетесь ли вы Гостем или Хозяином, вы соглашаетесь с тем, что любое требование или основание для предъявление иска, связанное со сбором и выплатой Налогов, не должно распространяться на какого-либо поставщика или продавца, который может использоваться компанией Airbnb в связи со сбором и выплатой Налогов на размещение, при наличии таковых. Гости и Хозяева соглашаются с тем, что мы вправе взыскивать с вас дополнительные суммы в том случае, если собранные или выплаченные суммы Налогов являются недостаточными для исполнения ваших обязанностей перед Налоговыми органами в полном объеме, и соглашаетесь с тем, что вашим единственным средством защиты применительно к собранным Налогам на размещение является осуществление возврата Налогов на размещение, собранных компанией Airbnb Payments, из соответствующих Налоговых органов в соответствии с применимыми процедурами, установленными такими Налоговыми органами.</p>
+
+<p><i>Ущерб, причиненный Месту отдыха/проживания</i></p>
+
+<p>Как Гость вы несете ответственность за то, чтобы оставить Место отдыха/проживания в том состоянии, в котором оно находилось, когда вы приехали. Вы подтверждаете и соглашаетесь, что как Гость вы несете ответственность за ваши действия и бездействие, а также несете ответственность за действия и бездействие любых лиц, которых вы пригласите или которым вы иным образом предоставите доступ к Месту отдыха/проживания. В случае если Хозяин утверждает иное и предъявляет доказательства наличия ущерба, включая, помимо прочего, фотографии, вы соглашаетесь оплатить расходы на замену поврежденных предметов эквивалентными. Оплата будет снята с кредитной карточки, зарегистрированной в связи с вашим Аккаунтом Airbnb, после направления уведомления о претензии и по прошествии 48 (сорока восьми) часов, которые предоставляются вам для того, чтобы отреагировать на претензию. Компания Airbnb также сохраняет за собой право списывать денежные средства с кредитной карточки, зарегистрированной в связи с вашим Аккаунтом Airbnb, или иным образом взимать с вас оплату или принимать другие меры, доступные компании Airbnb в этой связи, в том числе использовать Гарантийный депозит, в случаях, когда вы, по единоличному мнению компании Airbnb, причинили ущерб Месту отдыха/проживания, в том числе, помимо прочего, по любым запросам о платежах, направленных Хозяином в соответствии с Гарантией Airbnb для Хозяев, и применительно к любым выплатам, произведенным компанией Airbnb Хозяевам. Если мы не можем списать денежные средства с кредитной карточки или иным образом получить от вас оплату, вы соглашаетесь перевести платеж за любой ущерб, причиненный Месту отдыха/проживания, соответствующему Хозяину или компании Airbnb (если применимо).</p>
+
+<p>Гости и Хозяева соглашаются добросовестно оказывать содействие компании Airbnb и предоставлять компании Airbnb такую информацию и предпринимать такие меры, которые могут быть разумно потребованы компанией Airbnb в связи с любыми жалобами или претензиями, направленными Членами в связи с Местом отдыха/проживания или любым движимым или иным имуществом, расположенным в Месте отдыха/проживания (включая, помимо прочего, запросы о выплатах, поданные в соответствии с Гарантией Airbnb для Хозяев), или в отношении любого расследования, предпринятого компанией Airbnb или представителем компании Airbnb в отношении использования или злоупотребления при использовании Сайта, Приложения или Услуг. Если вы являетесь Гостем, то, по обоснованному требованию компании Airbnb и если это разумно возможно с вашей стороны, вы соглашаетесь принимать участие в медиации или любом подобном способе урегулирования споров с Хозяином бесплатно для вас, при этом такой процесс будет проводиться компанией Airbnb или третьим лицом, выбранным компанией Airbnb, в связи с убытками, по которым Хозяин требует выплат от компании Airbnb в соответствии с Гарантией Airbnb для Хозяев.</p>
+
+<p>Если вы являетесь Гостем, вы понимаете и соглашаетесь с тем, что компания Airbnb сохраняет за собой все права на предъявление по своему собственному усмотрению страхового иска в рамках договора страхования домовладельцев, договора страхования домашнего имущества арендатора или страхового договора в отношении какого-либо ущерба или убытков, которые вы могли причинить или за которые вы несете ответственость, или в отношении Места отдыха/проживания или любого движимого или иного имущества, расположенного в Месте отдыха/проживания (включая, в частности, суммы, выплачиваемые компанией Airbnb согласно Гарантии Airbnb для Хозяев). Вы соглашаетесь добросовестно оказывать содействие и помогать компании Airbnb, а также предоставлять компании Airbnb такую информацию, которую компания Airbnb может обоснованно потребовать для того, чтобы предъявить иск в рамках договора страхования домовладельцев, договора страхования домашнего имущества арендатора или страхового договора, включая, помимо прочего, подписание документов и принятие таких мер, которые компания Airbnb может обоснованно потребовать для оказания содействия компании Airbnb в выполнении всего вышеперечисленного.</p>
+
+<p><b>Иностранная валюта</b></p>
+
+<p>Онлайн платформа компании Airbnb облегчает осуществление бронирования между Гостями и Хозяевами, которые могут предпочитать совершать и получать платежи в отличающихся валютах, что может потребовать конвертации валюты для удовлетворения данных различий в предпочитаемой валюте. Несмотря на то, что платформа компании Airbnb позволяет пользователям отображать в Объявлениях цены в нескольких валютах, перечень валют, доступных пользователям для совершения и получения платежей, может быть ограничен и может не включать в себя основную валюту данного географического региона.</p>
+
+<p>Каждая операция по конвертации иностранной валюты осуществляется по обменному курсу валюты. Данный курс обычно обозначает количество одной валюты, которое необходимо заплатить за приобретение определенного количества другой валюты в определенный момент. Например, если покупка 100 евро стоит 125 долларов США, обменный курс долллара США к евро составляет 1,25, а обменный курс евро к доллару США составляет 0,8. Курсы валюты будут различаться в разное время.</p>
+
+<p><i>Основные определения</i></p>
+
+<p>"<b>Отображаемая валюта</b>" означает валюту, в которой пользователям отображаются цены в Объявлениях на платформе компании Airbnb. Гости могут выбирать и изменять Отображаемую валюту для того, чтобы посмотреть расценки в Объявлении в нескольких поддерживаемых валютах.</p>
+
+<p>"<b>Валюта бронирования</b>" означает валюту, в которой Гость должен будет оплатить свое бронирование. В тот момент когда Гость направляет запрос о бронировании, платформа компании Airbnb определит Валюту бронирования с учетом страны расположения Гостя и способов оплаты, доступных в данной стране. Компания Airbnb поддерживает только ограниченное число валют в качестве Валюты брониования. Валюта бронирования в бронировании может отличаться от Валюты Объявления.</p>
+
+<p>"<b>Валюта Объявления</b>" означает валюту, в которой указаны расценки в Объявлении. Валюта Объявления устанавливается Хозяином.</p>
+
+<p>"<b>Валюта платежа</b>" значает валюту, в которой выплаты Хозяину будут выплачены Хозяину. Валюта платежа определяется Хозяином.</p>
+
+<p>"<b>Базовый обменный курс</b>" означает курс системы, используемый компанией Airbnb для конвертации валюты, который действует на момент конвертации, и который не включает никаких сборов или наценок компании Airbnb. Компания Airbnb определяет Базовый обменный курс, используя данные одного или нескольких третьих лиц, таких как OANDA (<a href="http://www.oanda.com" target="_blank">www.oanda.com</a>).</p>
+
+<p>"<b>Скорректированный обменный курс</b>" означает курс конвертации иностранной валюты, который расчитывается путем добавления наценки к Базовому обменному курсу. Данная наценка представляет собой сбор, взимаемый компанией Airbnb в связи с ее расходами на хранение и валютно-обменными рисками.</p>
+
+<p><i>Конвертации иностранной валюты на платформе компании Airbnb</i></p>
+
+<p>Компания Airbnb Payments будет осуществлять конвертацию иностранной валюты в следующих случаях:</p>
+
+<p><ul>
+<br /><li>Отображаемая валюта отличается от Валюты Объявления, когда пользователь просматривает Объявление: компания Airbnb рассчитает ожидаемую Общую стоимость в Отображаемой валюте, применив действующий на момент просмотра Базовый обменный курс либо Скорректированный обменный курс к ожидаемой Общей стоимости в Отображаемой валюте. Скорректированный обменный курс будет использоваться в том случае, если Отображаемая валюта поддерживается в качестве Валюты бронирования и отличается от Валюты Объявления. В иных случаях будет применяться Базовый обменный курс.</li></p>
+
+<p><li>Валюта бронирования отличается от Валюты Объявления, когда Гость направляет запрос о бронировании по Объявлению: компания Airbnb рассчитает Общую стоимость в Валюте бронирования, применив действующий на момент бронирования Базовый обменный курс либо Скорректированный обменный курс к Общей стоимости в Валюте Объявления. Гость сможет посмотреть фактически используемый обменный курс. Гостевой сбор, который представляет собой процент от применимой Платы за Место отдыха/проживания, будет рассчитываться на основе Платы за Место отдыха/проживания в Валюте бронирования (т.е. после конвертации из Валюты Объявления). Скорректированный обменный курс будет использоваться в том случае, если Отображаемая валюта совпадает с Валютой бронирования и отличается от используемой для Объявления Валюты Объявления. В иных случаях будет применяться Базовый обменный курс.</li></p>
+
+<p><li>Валюта платежа отличается от Валюты Объявления, когда компания Airbnb инициирует выплату: обычно компания Airbnb рассчитывает размер выплаты Хозяину, применив действующий на момент, когда компания Airbnb инициирует выплату, Базовый обменный курс к Плате за Место отдыха/проживания (за вычетом Сбора с Хозяев компании Airbnb и любых налогов в отношении Сбора с Хозяев, таких как НДС в Европе) в Валюте Объявления. Хозяин сможет посмотреть фактически использованный обменный курс в истории своих транзакций на Сайте или в Приложении. В некоторых случаях, когда выбранный Хозяином способ оплаты предусматривает участие определенных сторонних команий по обработке платежей (таких как Western Union), (i) компания Airbn перечислит выплачиваемую сумму компании в широко используемой валюте (например, в долларах США), применив соответствующий Базовый обменный курс Валюты Объявления к такой широко используемой валюте, (ii) Хозяин сможет посмотреть выплачиваемую сумму, отправленную компанией Airbnb в такой широко используемой валюте в своей истории транзакций, и (iii) компания по обработке платежей рассчитает фактическую выплату Хозяину путем применения своего собственного обменного курса такой широко используемой валюты к Валюте платежа. </li></p>
+
+<p><li>Если подтвержденное бронирование изменяется или отменяется, и при этом при осуществлении бронирования осуществлялась конвертация иностранной валюты: конвертация иностранной валюты для любого дополнительного платежа, требуемого от Гостя, либо для любого возрата Гостю будет осуществляться по такому же курсу, который использовался для предыдущего платежа Гостя.</li>
+<br /></ul></p>
+
+<p>Когда вы как Гость направляете запрос о бронировании по Объявлению, вы сможете посмотреть текущий обменный курс, использованный при расчете Общей стоимости в Валюте бронирования. Если используется Скорректированный обменный курс, вы сможете посмотреть наценку, включенную в курс. Фактический обменный курс (и любая наценка, включенная в него) также будет указан в квитанции по вашему бронированию.</p>
+
+<p>Компания Airbnb обновляет Базовый обменный курс на регулярной основе, но не в режиме реального времени. В частности, компания Airbnb не всегда изменяет Базовый обменный курс одновременно с изменением стоимости обмена валюты. Соответственно, Базовый обменный курс может не соответствовать применимому рыночному курсу, действующему на момент конвертации иностранной валюты.</p>
+
+<p>Пожалуйста, обратите внимание, что ваша платежная компания (например, эмитент вашей кредитной или дебетовой карты) будет использовать обменный курс и может взимать сбор за конвертацию валюты с вашего платежа или выплаты в ваш адрес. Все такие обменные курсы и сборы за конвертацию валюты не контролируются и не известны компании Airbnb.</p>
+
+<p><b>Поведение Пользователя</b></p>
+
+<p>Вы понимаете и соглашаетесь с тем, что вы несете единоличную ответственность за соблюдение любых и всех законов, правил, подзаконных актов и обязательств по Налогам, которые могут действовать в отношении использования вами Сайта, Приложения, Услуг и Общего контента. В связи с использованием Сайта, Приложения, Услуг и Общего контента вы не имеете права и соглашаетесь не делать следующего:</p>
+
+<p><ul>
+<br /><li>нарушать какие-либо местные законы, законы штата или провинции, национальные и другие применимые законы, или подзаконные акты, или любое решение суда, в том числе, помимо прочего, нормы о зонировании и Налогах;</li>
+<br /><li>использовать ручные либо автоматизированные программы, устройства, использующие скрипты роботов или другие средства или процессы, позволяющие осуществлять доступ к каким-либо веб-страницам или другим сервисам, содержащимся на Сайте, в Приложении, Услугах или Общем контенте, использовать в их отношении "скрейперы", "пауков" или "ботов";</li>
+<br /><li>использовать Сайт, Приложение, Услуги или Общий контент в любых коммерческих либо иных целях, которые прямо не разрешены настоящими Условиями;</li>
+<br /><li>копировать, сохранять либо иным образом получать доступ к какой-либо информации, содержащейся на Сайте, в Приложении, Услугах или Общем контенте, в целях, которые прямо не разрешены настоящими Условиями;</li>
+<br /><li>нарушать права любого физического или юридического лица, включая, помимо прочего, их права интеллектуальной собственности, право на неприкосновенность частной жизни, право на публичность или права из договоров;</li>
+<br /><li>мешать работе или причинять ущерб нашему Сайту, Приложению или Услугам, включая, помимо прочего, ущерб в результате использования вирусов, ботов, троянских вирусов, вредоносного кода, атак на отказ в обслуживании, спуфинг пакетов или IP, ложной маршрутизации или информации об адресе электронной почты и прочих подобных методов или технологий;</li>
+<br /><li>использовать наш Сайт, Приложение или Услуги для передачи, распространения, размещения или пересылки какой-либо информации, связанной с другим физическим или юридическим лицом, включая, помимо прочего, фотографии других лиц без их разрешения, личную контактную информацию или номера кредитной, дебетовой, телефонной карточки или номера счетов;</li>
+<br /><li>использовать наш Сайт, Приложение, Услуги или Общий контент в связи с распространением незатребованных коммерческих электронных рассылок («спама») или рекламы, не связанной с размещением в частном жилом помещении;</li>
+<br /><li>«преследовать» или докучать домогательствами любого другого пользователя нашего Сайта, Приложения, Услуг или Общего контента, либо собирать или хранить какую-либо информацию, позволяющую установить личность любого другого пользователя в целях, отличных от целей ведения операций в качестве Гостя или Хозяина Airbnb;</li>
+<br /><li>предлагать в качестве Хозяина какое-либо Место отдыха/проживания, которое не принадлежит вам или которое вы не вправе арендовать в качестве жилой или прочей недвижимости (не ограничивая общего характера вышеизложенного, вы не должны размещать информацию о Местах отдыха/проживания, если вы действуете в качестве агента по аренде недвижимости или размещению объявлений третьего лица);</li>
+<br /><li>предлагать в качестве Хозяина какие-либо Места отдыха/проживания, которые не разрешается сдавать в аренду или субаренду в соответствии с условиями соглашения с третьим лицом, включая, помимо прочего, соглашение об аренде недвижимости;</li>
+<br /><li>регистрировать более одного Аккаунта Airbnb или регистрировать Аккаунт Airbnb от имени другого лица;</li>
+<br /><li>в отсутствие прямого разрешения компании Airbnb запрашивать или бронировать проживание в каком-либо Месте отдыха/проживания, если вы сами фактически не будете там проживать;</li>
+<br /><li>связываться с Хозяином в каких-либо целях, кроме как по вопросам, связанным с бронированием либо Местами отдыха/проживания или Объявлениями такого Хозяина;</li>
+<br /><li>связываться с Гостем в каких-либо целях, кроме как по вопросам, связанным с бронированием или использованием таким Гостем Сайта, Приложения и Услуг;</li>
+<br /><li>обращаться к Хозяевам и другим Членам с предложением воспользоваться услугами третьего лица или присоединиться к веб-сайтам, конкурирующим с компанией Airbnb, без предварительного письменного разрешения компании Airbnb;</li>
+<br /><li>выдавать себя за какое-либо физическое или юридическое лицо, подделывать свою личность или иначе представлять ложную информацию о себе или своей связи с другим физическим или юридическим лицом;</li>
+<br /><li>использовать автоматизированные скрипты, чтобы собирать информацию или иным образом взаимодействовать с Сайтом, Приложением, Услугами или Общим контентом;</li>
+<br /><li>использовать Сайт, Приложение, Услуги или Общий контент, чтобы найти Хозяина или Гостя, а затем осуществить бронирование Места отдыха/проживания за пределами Сайта, Приложения или Услуг, чтобы избежать обязательства выплачивать Комиссию за обслуживание, связанную с предоставлением компанией Airbnb Услуг, или по любым иным причинам;</li>
+<br /><li>в качестве Хозяина размещать Объявления с ложной или вводящей в заблуждение информацией о расценках, либо подавать Объявления с расценками, которые вы не намерены использовать;</li>
+<br /><li>размещать, загружать, опубликовывать, отправлять или передавать любой Контент, который: (i) представляет собой незаконное присвоение или нарушает патентные права, авторское право, право на товарный знак, секрет производства, личные неимущественные права или иные права интеллектуальной собственности, либо право на публичность или право на неприкосновенность частной жизни третьего лица; (ii) нарушает или способствует совершению каких-либо действий, нарушающих действующие законы или подзаконные акты, либо который может повлечь за собой возникновение гражданской ответственности; (iii) является ложным или вводящим в заблуждение; (iv) является порочащим честь, непристойным, имеет порнографический характер, является вульгарным или оскорбительным; (v) способствует дискриминации, нетерпимости, расизму, ненависти, домогательствам или причинению вреда какому-либо человеку или группе людей; (vi) имеет насильственный или угрожающий характер, либо пропагадирует применение насилия или совершение устрашающих действий в отношении какого-либо иного лица; или (vii) способствует незаконной или вредоносной деятельности или употреблению запрещенных веществ;</li>
+<br /><li>систематически извлекать данные или другой контент с нашего Сайта, из Приложения или Услуг для создания или составления прямо или косвенно, посредством одноразовой или многоразовой загрузки, коллекции, набора, базы данных, справочников и пр., будь то вручную или посредством ботов, поисковых агентов, «пауков» или пр;</li>
+<br /><li>использовать, отображать, создавать зеркала или отображать во фрейме Сайт, Приложение, Услуги или Общий контент, либо любой отдельный элемент Сайта, Приложения, Услуг или Общего контента, название компании Airbnb, какой-либо товарный знак компании Airbnb, логотип или любую другую внутреннюю информацию, либо компоновку и дизайн любой страницы или формы, представленной на странице Сайта, Приложения или Услуг, без прямого письменного согласия компании Airbnb;</li>
+<br /><li>получать доступ к, подделывать или использовать не предназначенные для публичного использования разделы Сайта, Приложения или Услуг, компьютерные системы компании Airbnb или системы передачи данных провайдеров компании Airbnb;</li>
+<br /><li>предпринимать попытки сбора информации, сканирования или проверки уязвимости систем или сетей компании Airbnb, либо нарушать какие-либо меры безопасности или аутентификации;</li>
+<br /><li>избегать, обходить, удалять, деактивировать, повреждать, расшифровывать или иным образом обходить любые технические средства, используемые компанией Airbnb, провайдерами компании Airbnb либо любыми иными третьими лицами (включая другого пользователя) для защиты Сайта, Услуг, Приложения или Общего контента;</li>
+<br /><li>подделывать любой заголовок пакета TCP/IP или любую часть информации заголовка в каком-либо электронном сообщении или групповой публикации, либо использовать Сайт, Услуги, Приложение или Общий контент для отправки измененной, ложной или поддельной информации относительно источника;</li>
+<br /><li>предпринимать попытки расшифровать, декомпелировать, дезассемблировать или произвести обратный инжиниринг какого-либо программного обеспечения, используемого для предоставления Сайта, Услуг, Приложения или Общего контента; или</li>
+<br /><li>помогать, подстрекать или содействовать любому третьему лицу в осуществлении любого из перечисленных выше действий.</li>
+<br /></ul></p>
+
+<p>Компания Airbnb имеет право проводить расследования и преследовать за нарушение любого из перечисленных выше пунктов в максимальной степени, допустимой законом.</p>
+
+<p>Компания Airbnb вправе осуществлять доступ, хранить и раскрывать любую вашу информацию, если мы обязаны сделать это по закону, либо если мы добросовестно полагаем, что это разумно необходимо для того, чтобы (i) отреагировать на претензии, предъявленные компании Airbnb или соблюдать требования процессуальных документов (например, повесток либо ордеров), (ii) обеспечить исполнение в принудительном порядке или управлять нашими соглашениями с пользователями, такими как настоящие Условия, а также Гарантия Airbnb для Хозяев (см. <a href="http://www.airbnb.com/terms" target="_blank">http://www.airbnb.com/terms</a>), (iii) предотвращать мошенничество, осуществлять оценку рисков, расследования, пользовательскую поддержку, разработку продуктов и отладку ошибок, или (iv) защищать права, имущество или безопасность компании Airbnb, ее пользователей и рядовых граждан. Вы подтверждаете, что компания Airbnb не имеет никаких обязательств по мониторингу вашего доступа или использования Сайта, Приложения, Услуг или Общего контента, либо проверке или редактированию Контента Членов, но имеет право так поступать для управления или улучшения Сайта, Приложения и Услуг (в том числе, помимо прочего, для целей предотвращения мошенничества, расследований и пользовательской поддержки), в целях обеспечения соблюдения вами настоящих Условий, в целях соблюдения действующих законов и решений суда, административных агентств или других государственных органов, реагирования на контент, который она посчитает нежелательным по другим основаниями, или в соответствии с настоящими Условиями. Компания Airbnb сохраняет за собой право в любое время без предварительного уведомления отменять или отключать доступ к любому Общему контенту, который компания Airbnb, по своему единоличному усмотрению, посчитает по какой-либо причине нежелательными, нарушающим настоящие Условия или иным образом неблагоприятным для Сайта, Приложения или Услуг.</p>
+
+<p><b>Конфиденциальность</b></p>
+
+<p>См. Политику конфиденциальности компании Airbnb, доступную по адресу: <a href="http://www.airbnb.ru/terms/privacy_policy" target="_blank">http://www.airbnb.ru/terms/privacy_policy</a>, а также информацию и уведомления, связанные со сбором и использованием компанией Airbnb вашей личной информации.</p>
+
+<p><b>Правообладатель </b></p>
+
+<p>Сайт, Приложение, Услуги и Общий контент охраняются законодательством об авторском праве, товарных знаках и другими законами США и иностранных государств. Вы подтверждаете и соглашаетесь, что Сайт, Приложение, Услуги и Общий контент, включая все связанные с ними права интеллектуальной собственности, принадлежат исключительно компании Airbnb и ее лицензиарам. Вы не вправе удалять, изменять или скрывать знаки охраны авторского права, товарных знаков, знаков обслуживания или уведомления о других охраняемых правах, являющиеся частью Сайта, Приложения, Услуг или Общего контента. </p>
+
+<p><b>Программа рекомендаций Airbnb </b></p>
+
+<p>В качестве Члена, рекомендуя друзьям направлять запросы о бронировании или создавать Объявления, которые получат подтвержденное бронирование при помощи Сайта, Приложения и Услуг, вы можете участвовать в «<b>Программе рекомендаций</b>», которая представляет собой программу вознаграждений за лояльность, которую мы предлагаем нашим Членам. Если вы захотите принять участие в Программе рекомендаций, за каждого человека, которому вы порекомендуете Airbnb и который удовлетворит требования Квалифицированной рекомендации (определение представлено ниже), вы сможете получить Туристический кредит Airbnb (определение представлено ниже) (каждый из которых именуется «<b>Вознаграждение за рекомендацию</b>»). «<b>Туристический кредит Airbnb</b>» — это баллы, выданные компанией Airbnb Payments, которые Члены могут использовать для оплаты будущего бронирования недвижимости с помощью Сайта, Приложения и Услуг.</p>
+
+<p>Для того чтобы получить Вознаграждение за рекомендацию, необходимо выполнить все следующие требования (совместно именуемые «<b>Квалифицированной рекомендацией</b>»): (i) вы должны войти в свой Аккаунт Airbnb на Сайте или Приложении и выбрать ссылку «Пригласить друзей» или «Отправить электронное сообщение друзьям»; (ii) вы должны поделиться указанной ссылкой с друзьями с помощью Facebook или Twitter, скопировав и вставив уникальную реферальную ссылку, созданную в разделе Услуг, отправив уникальную реферальную ссылку, созданную в разделе Услуг, по электронной почте своим друзьям, либо используя другие средства, предоставляемые компанией Airbnb для того, чтобы вы могли поделиться уникальной реферальной ссылкой с друзьями; (iii) друг, который нажмет на ссылку на Facebook или ссылку, отправленную по электронной почте, должен создать Аккаунт Airbnb и стать Членом; и (iv) после того как он станет Членом, ваш друг должен подать запрос о бронировании Места отдыха/проживания, который должен быть подтвержден соответствующим Хозяином, или разместить Объявление, для которого впослествии будет получено подтверждение бронирования при помощи Услуг с Общей стоимостью (без учета любой платы за уборку) не менее семьдесяти пяти долларов США ($75) (или ее эквивалента в местной валюте, если мы ее поддерживанием), которое не будет после этого аннулировано. Примите во внимание, что вы не должны являться Хозяином или Гостем в бронировании, чтобы получить Вознаграждение за рекомендацию.</p>
+
+<p>Условием Программы рекомендаций является то, что вы должны распространять или делиться уникальной реферальной ссылкой только с вашими личными друзьями. Вы соглашаетесь не публиковать и не распространять ссылку, а также не допускать опубликования или распространения ссылки с помощью методов или платформ, а также носителей, если у вас нет никаких разумных оснований полагать, что все или большая часть читателей или получателей являются вашими личными друзьями. Все созданные Аккаунты Airbnb и подтвержденные запросы о бронировании, полученные с нарушением данного требования, не будут учитываться при проверки на соответствие требованиям Квалифицированных рекомендаций, и не будут учитываться при предоставлении Вознаграждений за рекомендацию.</p>
+
+<p>Факт соответствия требованиям Квалифицированной рекомендации и Вознаграждение за рекомендацию, которое вы получите, будут указаны в вашем Аккаунте Airbnb спустя разумное время после того как будут соблюдены все требования Квалифицированной рекомендации. Вознаграждения за рекомендации, которые будут вам начисляться, будут указаны в вашей странице профиля Аккаунта Airbnb. Вознаграждения за рекомендации могут накапливаться только вами, и вы не можете зарабатывать Вознаграждения за рекомендации, позволив другим людям использовать ваш Аккаунт Airbnb. Вознаграждения за рекомендации, накапливаемые на разных Аккаунтах Airbnb, не могут объединяться в один Аккаунт Airbnb. Вы не можете зарабатывать Вознаграждения за рекомендации, создав несколько Аккаунтов Airbnb. Получая Вознаграждения за рекомендации, вы соглашаетесь и подтверждаете, что компания Airbnb предоставляет вам ограниченную лицензию с возможностью отзыва на цифровой объект и что Вознаграждения за рекомендации не находятся в вашей личной собственности. Вы не можете обменивать Вознаграждения за рекомендации на наличные или денежные средства. За исключением случаев, специально оговоренных в настоящих Условиях, Вознаграждения за рекомендации не подлежат передаче другим лицам. Члены несут ответственность за мониторинг в отношении Вознаграждений за рекомендации в своих Аккаунтах Airbnb.</p>
+
+<p>Компания Airbnb вправе приостановить или прекратить Программу рекомендаций или ваше участие в Программе рекомендаций в любое время по любой причине. Компания Airbnb не будет предоставлять никаких Вознаграждений за рекомендации после приостановления или прекращения Программы рекомендаций либо вашего участия в ней, однако приостановление или прекращение не повлияет ни на какие присужденные или полученные Вознаграждения за рекомендации.
+<br /><b>Условия использования Туристического кредита Airbnb</b></p>
+
+<p>Туристический кредит Airbnb можно использовать только для оплаты подтвержденного бронирования с помощью Сайта, Приложения или Услуг, и после того как вы накопите Туристические кредиты Airbnb, такие Туристические кредиты Airbnb будут автоматически использоваться для оплаты вашего следующего подтвержденного бронирования, выполненного с помощью Сайта, Приложения и Услуги. Туристические кредиты Airbnb предоставляются только в форме кредитов и не имеют денежной стоимости, а также не подлежат возврату или обмену на деньги. Вы можете использовать Туристический кредит Airbnb только после того, как Туристический кредит Airbnb будет отображен в вашем Аккаунте Airbnb. Область применения, ассортимент и тип услуг и продуктов, которые вы можете приобрести при помощи Туристического кредита Airbnb, может измениться в любое время.</p>
+
+<p>Срок действия Туристического кредита Airbnb истекает через 3 (три) года с даты, когда последний Туристический кредит Airbnb был начислен на ваш Аккаунт Airbnb. Компания Airbnb уведомит вас по электронному адресу, который вы указали при регистрации Аккаунта не позднее тридцати (30) дней до даты окончания срока действия ваших Туристических кредитов Airbnb, указанных в вашем Аккаунте Airbnb. Если по какой-либо причине вы считаете, что ваш баланс Туристических кредитов Airbnb является неверным, сообщите нам по адресу: <a href="mailto:terms@airbnb.com" target="_blank">terms@airbnb.com</a>. Компания Airbnb может потребовать от вас, чтобы вы предоставили дополнительную информацию для того, чтобы мы могли определить ваш баланс. Все решения в отношении вашего баланса будут считаться окончательными и будут приниматься по единоличному усмотрению компании Airbnb. Вы несете ответственность за любые Налоговые последствия, которые могут возникнуть в связи с использованием вами Туристических кредитов Airbnb. Если применимо, компания Airbnb может быть должна отчитаться за НДС в отношении любых услуг, за которые были получены Туристические кредиты Airbnb.</p>
+
+<p>Не ограничивая никаких других положений настоящих Условий и с учетом действующего законодательства, все Туристические кредиты Airbnb будут аннулированы, если ваш Аккаунт Airbnb будет удален или приостановлен по какой-либо причине, по единоличному усмотрению компании Airbnb, или если компания Airbnb перестанет предоставлять Сайт, Приложение, Услуги или Программу рекомендаций.
+<br /><b>Лицензия на Приложение</b></p>
+
+<p>При условии соблюдения вами настоящих Условий компания Airbnb предоставляет вам ограниченную, неисключительную, не подлежащую передаче лицензию для загрузки и установки копии Приложения на одном мобильном устройстве или компьютере, которые находятся в вашей собственности или под вашим контролем, чтобы вы могли использовать такую копию Приложения исключительно для личных целей. Кроме того, в отношении Приложения, приобретенного в магазине App Store (определение представлено ниже): вы обязуетесь использовать только Приложение, приобретенное в магазине App Store (i) на изделии марки Apple, которое использует iOS (охраняемую операционную систему Apple) и (ii) если разрешено «Правилами использования», изложенными в Условиях обслуживания Apple App Store. Компания Airbnb сохраняет за собой все права на Приложение, явным образом не предоставленные вам в письменной форме в соответствии с настоящими Условиями.</p>
+
+<p><b>Лицензия на Контент Airbnb и Контент Членов</b></p>
+
+<p>При условии соблюдения вами настоящих Условий компания Airbnb предоставляет вам ограниченную, неисключительную, не подлежащую передаче лицензию на (i) доступ и просмотр Контента Airbnb исключительно в личных и некоммерческих целях, а также на (ii) доступ и просмотр любого Контента Членов, доступ к которому вам предоставлен, исключительно в личных и некоммерческих целях. Вы не имеете права предоставлять по сублицензии лицензионные права, предоставленные в настоящем разделе.</p>
+
+<p>Вы не вправе использовать, копировать, адаптировать, модифицировать, создавать производные произведения, распространять, лицензировать, продавать, передавать, публично показывать, публично исполнять, пересылать, вещать или иным образом использовать Сайт, Услуги или Общий контент, за исключением случаев, когда это прямо разрешено настоящими Условиями. Никакие лицензии или права не предоставляются вам косвенно или иным образом в соответствии с правами интеллектуальной собственности, принадлежащими или контролируемыми компанией Airbnb или ее лицензиарами, за исключением лицензий и прав, прямо предоставленных в соответствии с настоящими Условиями.
+<br /><b>Контент Членов</b></p>
+
+<p>Мы вправе по нашему единоличному усмотрению разрешать вам размещать, загружать, публиковать, отправлять или передавать Контент Членов. Делая Контент Членов доступным на Сайте, с помощью Приложения и Услуг, вы настоящим предоставляете компании Airbnb всемирную, безотзывную, бессрочную, неисключительную, подлежащую передаче и безвозмездную лицензию с правом выдачи сублицензий, на использование, просмотр, копирование, адаптирование, модификацию, распространение, выдачу лицензий, продажу, передачу, публичный показ, публичное исполнение, вещание, доступ, просмотр и использование такого Контента Членов иными способами на, посредством или при помощи Сайта, Приложения и Услуг либо для их продвижения или продажи. Компания Airbnb не претендует на то, чтобы являться правообладателем в отношении прав на любой такой Контент Членов, и никакое положение настоящих Условий не будет ограничивать какие-либо права, которые вы можете иметь, на использование и эксплуатацию любого такого Контента Членов.</p>
+
+<p>Вы подтверждаете и соглашаетесь, что вы несете единоличную ответственность за весь Контент Членов, который вы делаете доступным с помощью Сайта, Приложения и Услуг. Соответственно, вы заявляете и гарантируете, что: (i) вы являетесь единственным и исключительным правообладателем всего Контента Членов, который вы делаете доступным с помощью Сайта, Приложения и Услуг, либо вы имеете все права, лицензии, согласия и отказы от прав, которые требуются для того, чтобы предоставить компании Airbnb права на использование такого Контента Членов, как это предусмотрено в настоящих Условиях; и (ii) ни Контент Членов, ни ваше размещение, загрузка, опубликование, направление или передача Контента Членов, ни использование Контента Членов (или любой его части) компанией Airbnb на, посредством или при помощи Сайта, Приложения и Услуг, не является присвоением прав и не нарушает патентные права, авторское право, право на товарный знак, секрет производства, личное неимущественное право или другие права интеллектуальной собственности, либо права на публичность или неприкосновенность частной жизни третьих лиц, а также не нарушают каких-либо действующих законов и подзаконных актов.</p>
+
+<p><b>Ссылки </b></p>
+
+<p>Сайт, Приложение и Услуги могут содержать ссылки на веб-сайты и ресурсы третьих лиц. Вы подтверждаете и соглашаетесь, что компания Airbnb не несет ответственности за следующее: (i) доступность или точность информации, представленной на таких веб-сайтах или ресурсах; или (ii) контент, товары или услуги, предоставляемые на или с помощью таких веб-сайтов или ресурсов. Ссылки на такие веб-сайты или ресурсы не подразумевают одобрение компанией Airbnb таких веб-сайтов или ресурсов либо контента, товаров или услуг, предоставляемых на или с помощью таких веб-сайтов или ресурсов. Вы принимаете на себя единоличную ответственность и несете весь риск, связанный с использованием вами любых таких веб-сайтов или ресурсов либо Контента, товаров или услуг, предоставляемых на или с помощью таких веб-сайтов или ресурсов.</p>
+
+<p>Некоторые части платформы компании Airbnb могут использовать сервисы Google Maps/Earth, включая интерфейсы прикладного программирования (APIs) Google Maps. Использование вами Google Maps/Earth должно осуществляться в соответствии с условиями использования Google, доступными по адресу: <a href="http://www.google.com/intl/en_us/help/terms_maps.html" target="_blank">http://www.google.com/intl/en_us/help/terms_maps.html</a>.</p>
+
+<p><b>Уведомления об охраняемых правах</b></p>
+
+<p>Все товарные знаки, знаки обслуживания, логотипы, коммерческие обозначения и любые другие охраняемые обозначения компании Airbnb, используемые в настоящих Условиях, являются товарными знаками или зарегистрированными товарными знаками компании Airbnb. Любые иные товарные знаки, знаки обслуживания, логотипы, коммерческие обозначения и любые другие охраняемые обозначения являются товарными знаками или зарегистрированными товарными знаками соответствующих лиц.</p>
+
+<p><b>Отзывы</b></p>
+
+<p>Мы приветствуем любые отзывы, комментарии и предложения по улучшению Сайта, Приложения и Услуг («<b>Отзывы</b>»). Вы можете направить нам ваши отзывы по адресу: <a href="mailto:terms@airbnb.com" target="_blank">terms@airbnb.com</a> или с помощью раздела Сайта или Приложения «Контакты» (<a href="http://www.airbnb.ru/help/contact_us" target="_blank">http://www.airbnb.ru/help/contact_us</a>). Вы подтверждаете и соглашаетесь, что единоличным и исключительным правообладателем в отношении всех Отзывов будет являться компания Airbnb, и вы настоящим безотзывно отчуждаете компании Airbnb и соглашаетесь безотзывно передать компании Airbnb все свои права в отношении всех Отзывов, включая, помимо прочего, все патентные права, авторское право, секреты производства, личные неимущественные и прочие охраняемые права и права интеллектуальной собственности по всему миру в отношении таких Отзывов. По требованию компании Airbnb и за ее счет вы обязуетесь подписать документы и предпринять все такие дальнейшие меры, которые компания Airbnb может обоснованно запросить для того, чтобы содействовать компании Airbnb в получении, оформлении и поддержании в силе ее прав на интеллектуальную собственность и осуществлении иных мер по правовой охране Отзывов.</p>
+
+<p><b>Политика в отношении авторского права</b></p>
+
+<p>Компания Airbnb соблюдает законы об авторском праве и ожидает того же от всех своих пользователей. Политика компании Airbnb заключается в том, чтобы при определенных обстоятельствах закрывать Аккаунты Airbnb Членов или других владельцев аккаунтов, которые неоднократно нарушили или считаются неоднократно нарушившими права владельцев авторского права. Дополнительную информацию см. в Политике в отношении авторского права, доступной по адресу <a href="http://www.airbnb.ru/terms/copyright_policy" target="_blank">http://www.airbnb.ru/terms/copyright_policy</a>.</p>
+
+<p><b>Приостановление, прекращение и аннулирование Аккаунта Airbnb</b></p>
+
+<p>Мы вправе, по нашему усмотрению и не неся перед вами никакой ответственности за это, при наличии оснований или без причин, с или без предоставления предварительного уведомления, в любое время принять решение об ограничении, приостановлении, деактивации или аннулировании вашего Аккаунта Airbnb. Если мы примем решение поступить таким образом в соответствии с настоящими Условиями, с вами может произойти что-либо или все из указанного ниже, с или без направления вам предварительного уведомления или объяснений: (a) ваш Аккаунт Airbnb будет деактивирован или приостановлен, ваш пароль будет отключен, вы не сможете получить доступ к Сайту, Приложению, Услугам, вашему Аккаунту Airbnb, вашему Контенту Члена, либо получить помощь от отдела клиентского обслуживания компании Airbnb, и (b) любое ожидающее подтверждения или принятое будущее бронирование вас как Хозяина или Гостя будет немедленно отменено, (с) мы можем сообщить вашим Гостям или Хозяевам, что потенциальное или подтвержденное бронирование было отменено, (d) мы можем возместить вашим Гостям в полном объеме любые и все подтвержденные бронирования, вне зависимости от существовавших ранее правил об отмене бронирования, (е) мы можем связаться с вашими Гостями, чтобы уведомить их о потенциальных альтернативных Местах отдыха/проживания у других Хозяев, которые могут быть доступны с помощью Сайта, Приложения или Услуг, и (f) вы не будете вправе требовать какой-либо компенсации за резервирования или бронирования (даже если они были подтверждены), которые были отменены в результате приостановления, деактивации или прекращения вашего Аккаунта Airbnb. Вы вправе аннулировать ваш Аккаунт Airbnb в любое время при помощи предусмотренной Услугами функции "Аннулировать аккаунт" или путем направления электронного сообщения на адрес <a href="mailto:terms@airbnb.com" target="_blank">terms@airbnb.com</a>. Пожалуйста, обратите внимание на то, что если ваш Аккаунт Airbnb был аннулирован, мы не обязаны удалять или возвращать вам какой-либо Контент, который вы разместили на Сайте, в Приложении и Услугах, включая, помимо прочего, любые обзоры или Отзывы.</p>
+
+<p><b>Отказ от ответственности</b></p>
+
+<p>ЕСЛИ ВЫ РЕШИТЕ ИСПОЛЬЗОВАТЬ САЙТ, ПРИЛОЖЕНИЕ, УСЛУГИ ИЛИ ОБЩИЙ КОНТЕНТ ИЛИ ПРИНЯТЬ УЧАСТИЕ В ПРОГРАММЕ РЕКОМЕНДАЦИЙ, ВЫ ДЕЛАЕТЕ ЭТО НА СОБСТВЕННЫЙ РИСК. ВЫ ПОДТВЕРЖДАЕТЕ И СОГЛАШАЕТЕСЬ, ЧТО КОМПАНИЯ AIRBNB НЕ ОБЯЗАНА ПРОВОДИТЬ ПРОВЕРКИ БИОГРАФИЧЕСКИХ ДАННЫХ КАКИХ-ЛИБО ЧЛЕНОВ, ВКЛЮЧАЯ, ПОМИМО ПРОЧЕГО, ГОСТЕЙ И ХОЗЯЕВ, ОДНАКО МОЖЕТ ПРОВОДИТЬ ТАКИЕ ПРОВЕРКИ ПО СВОЕМУ ЕДИНОЛИЧНОМУ УСМОТРЕНИЮ. САЙТ, ПРИЛОЖЕНИЕ, УСЛУГИ, ОБЩИЙ КОНТЕНТ И ПРОГРАММА РЕКОМЕНДАЦИЙ ПРЕДОСТАВЛЯЮТСЯ НА УСЛОВИЯХ «КАК ЕСТЬ», БЕЗ ГАРАНТИЙ ЛЮБОГО РОДА, ЯВНО ВЫРАЖЕННЫХ ИЛИ ПОДРАЗУМЕВАЕМЫХ. НЕ ОГРАНИЧИВАЯ ОБЩИЙ ХАРАКТЕР ВЫШЕИЗЛОЖЕННОГО И ЕСЛИ ЭТО ДОПУСКАЕТСЯ ЗАКОНОМ, КОМПАНИЯ AIRBNB ЯВНЫМ ОБРАЗОМ ОТКАЗЫВАЕТСЯ ОТ ЛЮБЫХ ГАРАНТИЙ ПРИГОДНОСТИ ДЛЯ КОММЕРЧЕСКОГО ИСПОЛЬЗОВАНИЯ, ПРИГОДНОСТИ ДЛЯ ОПРЕДЕЛЕННОЙ ЦЕЛИ, ВОЗМОЖНОСТИ СПОКОЙНОГО ИСПОЛЬЗОВАНИЯ И ОТСУТСТВИЯ НАРУШЕНИЯ ПРАВ, А ТАКЖЕ ЛЮБЫХ ГАРАНТИЙ, ВЫТЕКАЮЩИХ ИЗ СТАНДАРТНОГО ХОДА КОММЕРЧЕСКОЙ ДЕЯТЕЛЬНОСТИ ИЛИ ОБЫЧАЕВ ДЕЛОВОГО ОБОРОТА. КОМПАНИЯ AIRBNB НЕ ДАЕТ НИКАКИХ ГАРАНТИЙ ОТНОСИТЕЛЬНО ТОГО, ЧТО САЙТ, ПРИЛОЖЕНИЕ, УСЛУГИ, ОБЩИЙ КОНТЕНТ, ВКЛЮЧАЯ, ПОМИМО ПРОЧЕГО, ОБЪЯВЛЕНИЯ ИЛИ МЕСТА ОТДЫХА/ПРОЖИВАНИЯ ИЛИ ПРОГРАММА РЕКОМЕНДАЦИЙ БУДУТ СООТВЕТСТВОВАТЬ ВАШИМ ТРЕБОВАНИЯМ ИЛИ БУДУТ ПРЕДОСТАВЛЯТЬСЯ БЕЗ ПЕРЕБОЕВ, С ОБЕСПЕЧЕНИЕМ БЕЗОПАСНОСТИ И БЕЗ ОШИБОК. КОМПАНИЯ AIRBNB НЕ ДАЕТ НИКАКИХ ГАРАНТИЙ В ОТНОШЕНИИ КАЧЕСТВА КАКИХ-ЛИБО ОБЪЯВЛЕНИЙ, МЕСТ ОТДЫХА/ПРОЖИВАНИЯ, В ОТНОШЕНИИ НАКОПЛЕНИЯ ВАМИ ТУРИСТИЧЕСКИХ КРЕДИТОВ AIRBNB, В ОТНОШЕНИИ КАЧЕСТВА УСЛУГ ИЛИ ОБЩЕГО КОНТЕНТА, ЛИБО В ОТНОШЕНИИ ТОЧНОСТИ, СВОЕВРЕМЕННОСТИ, ДОСТОВЕРНОСТИ, ПОЛНОТЫ ИЛИ НАДЕЖНОСТИ ЛЮБОГО ОБЩЕГО КОНТЕНТА, ПОЛУЧЕННОГО С ПОМОЩЬЮ САЙТА, ПРИЛОЖЕНИЯ, УСЛУГ ИЛИ ПРОГРАММЫ РЕКОМЕНДАЦИЙ.</p>
+
+<p>НИКАКАЯ РЕКОМЕНДАЦИЯ ИЛИ ИНФОРМАЦИЯ, В УСТНОЙ ИЛИ ПИСЬМЕННОЙ ФОРМЕ, ПОЛУЧЕННАЯ ОТ КОМПАНИИ AIRBNB ИЛИ С ПОМОЩЬЮ САЙТА, ПРИЛОЖЕНИЯ, УСЛУГ ИЛИ ОБЩЕГО КОНТЕНТА, НЕ СОЗДАЕТ КАКОЙ-ЛИБО ГАРАНТИИ, НЕ УКАЗАННОЙ В НАСТОЯЩИХ УСЛОВИЯХ.</p>
+
+<p>ВЫ НЕСЕТЕ ЕДИНОЛИЧНУЮ ОТВЕТСТВЕННОСТЬ ЗА ВСЕ ВАШИ СООБЩЕНИЯ И ВЗАИМОДЕЙСТВИЕ С ДРУГИМИ ПОЛЬЗОВАТЕЛЯМИ САЙТА, ПРИЛОЖЕНИЯ ИЛИ УСЛУГ И ДРУГИМИ ЛИЦАМИ, С КОТОРЫМИ ВЫ ОБМЕНИВАЕТЕСЬ ИНФОРМАЦИЕЙ ИЛИ ВЗАИМОДЕЙСТВУЕТЕ В РЕЗУЛЬТАТЕ ИСПОЛЬЗОВАНИЯ ВАМИ САЙТА, ПРИЛОЖЕНИЯ ИЛИ УСЛУГ, ВКЛЮЧАЯ, ПОМИМО ПРОЧЕГО, ЛЮБЫХ ХОЗЯЕВ И ГОСТЕЙ. ВЫ ПОНИМАЕТЕ, ЧТО КОМПАНИЯ AIRBNB НЕ ПРЕДПРИНИМАЕТ НИКАКИХ ПОПЫТОК ПРОВЕРИТЬ ЗАЯВЛЕНИЯ ПОЛЬЗОВАТЕЛЕЙ САЙТА, ПРИЛОЖЕНИЯ ИЛИ УСЛУГ ИЛИ ПРОВЕРИТЬ ИЛИ ПОСЕТИТЬ КАКИЕ-ЛИБО МЕСТА ОТДЫХА/ПРОЖИВАНИЯ. КОМПАНИЯ AIRBNB НЕ ДАЕТ НИКАКИХ ЗАВЕРЕНИЙ ИЛИ ГАРАНТИЙ В ОТНОШЕНИИ ПОВЕДЕНИЯ ПОЛЬЗОВАТЕЛЕЙ САЙТА, ПРИЛОЖЕНИЯ ИЛИ УСЛУГ ИЛИ ИХ СОВМЕСТИМОСТИ С СУЩЕСТВУЮЩИМИ ИЛИ БУДУЩИМИ ПОЛЬЗОВАТЕЛЯМИ САЙТА. ПРИЛОЖЕНИЯ ИЛИ УСЛУГ. ВЫ СОГЛАШАЕТЕСЬ ПРИНИМАТЬ РАЗУМНЫЕ МЕРЫ ПРЕДОСТОРОЖНОСТИ ВО ВСЕХ ВАШИХ СООБЩЕНИЯХ И ПРИ ВЗАИМОДЕЙСТВИИ С ДРУГИМИ ПОЛЬЗОВАТЕЛЯМИ САЙТА, ПРИЛОЖЕНИЯ ИЛИ УСЛУГ И ДРУГИМИ ЛИЦАМИ, С КОТОРЫМИ ВЫ ОБМЕНИВАЕТЕСЬ ИНФОРМАЦИЕЙ ИЛИ ВЗАИМОДЕЙСТВУЕТЕ В РЕЗУЛЬТАТЕ ИСПОЛЬЗОВАНИЯ ВАМИ САЙТА, ПРИЛОЖЕНИЯ ИЛИ УСЛУГ, ВКЛЮЧАЯ, ПОМИМО ПРОЧЕГО, ЛЮБЫХ ХОЗЯЕВ И ГОСТЕЙ, В ОСОБЕННОСТИ, ЕСЛИ ВЫ РЕШИТЕ ВСТРЕТИТЬСЯ ОФЛАЙН ИЛИ ЛИЧНО, НЕЗАВИСИМО ОТ ТОГО, ОРГАНИЗОВАНЫ ЛИ ТАКИЕ ВСТРЕЧИ КОМПАНИЕЙ AIRBNB ИЛИ НЕТ. НЕСМОТРЯ НА ТО, ЧТО КОМПАНИЯ AIRBNB НАЗНАЧАЕТСЯ ПЛАТЕЖНЫМ АГЕНТОМ ХОЗЯЕВ С ОГРАНИЧЕННЫМИ ПОЛНОМОЧИЯМИ С ЦЕЛЬЮ СБОРА ПЛАТЕЖЕЙ ГОСТЕЙ ОТ ИМЕНИ ХОЗЯЕВ, КОМПАНИЯ AIRBNB ОТКРЫТО ОТКАЗЫВАЕТСЯ НЕСТИ ЛЮБУЮ ОТВЕТСТВЕННОСТЬ ЗА ДЕЙСТВИЯ ИЛИ БЕЗДЕЙСТВИЕ ЛЮБОГО ИЗ ГОСТЕЙ ИЛИ ИНЫХ ТРЕТЬИХ ЛИЦ.
+<br /><b>Ограничение ответственности</b></p>
+
+<p>ВЫ ПОДТВЕРЖДАЕТЕ И СОГЛАШАЕТЕСЬ, ЧТО В МАКСИМАЛЬНОЙ СТЕПЕНИ, РАЗРЕШЕННОЙ ЗАКОНОМ, ВЫ БЕРЕТЕ НА СЕБЯ ВЕСЬ РИСК, ВОЗНИКАЮЩИЙ В СВЯЗИ С ВАШИМ ДОСТУПОМ К И ИСПОЛЬЗОВАНИЕМ САЙТА, ПРИЛОЖЕНИЯ, УСЛУГ И ОБЩЕГО КОНТЕНТА, ВАШИМ ОБЪЯВЛЕНИЕМ ЛИБО БРОНИРОВАНИЕМ ЛЮБОГО МЕСТА ОТДЫХА/ПРОЖИВАНИЯ С ПОМОЩЬЮ САЙТА, ПРИЛОЖЕНИЯ И УСЛУГ, ВАШИМ УЧАСТИЕМ В ПРОГРАММЕ РЕКОМЕНДАЦИЙ И КАКИМ-ЛИБО КОНТАКТОМ С ДРУГИМИ ПОЛЬЗОВАТЕЛЯМИ AIRBNB ЛИЧНО ИЛИ ЧЕРЕЗ ИНТЕРНЕТ. НИ КОМПАНИЯ AIRBNB, НИ ЛЮБОЕ ДРУГОЕ ЛИЦО, УЧАСТВУЮЩЕЕ В СОЗДАНИИ, ПРОИЗВОДСТВЕ ЛИБО ПРЕДОСТАВЛЕНИИ САЙТА, ПРИЛОЖЕНИЯ, УСЛУГ, ОБЩЕГО КОНТЕНТА ИЛИ ПРОГРАММЫ РЕКОМЕНДАЦИЙ, НЕ БУДЕТ НЕСТИ ОТВЕТСТВЕННОСТИ ЗА ЛЮБЫЕ СЛУЧАЙНЫЕ УБЫТКИ, УБЫТКИ, ОПРЕДЕЛЯЕМЫЕ ОСОБЫМИ ОБСТОЯТЕЛЬСТВАМИ ДЕЛА, А ТАКЖЕ ЗА УБЫТКИ, ПРИСУЖДАЕМЫЕ В ПОРЯДКЕ НАКАЗАНИЯ, ИЛИ ПОБОЧНЫЕ УБЫТКИ, ВКЛЮЧАЯ УПУЩЕННУЮ ПРИБЫЛЬ, ПОТЕРЮ ДАННЫХ ИЛИ УЩЕРБ ДЕЛОВОЙ РЕПУТАЦИИ, ПЕРЕБОИ В ОБСЛУЖИВАНИИ, ПОВРЕЖДЕНИЕ КОМПЬЮТЕРА ИЛИ СБОИ В СИСТЕМЕ, РАСХОДЫ НА ЗАМЕНУ ПРОДУКЦИИ ИЛИ УСЛУГ, ЛИБО ЗА КАКИЕ-ЛИБО УБЫТКИ ВСЛЕДСТВИЕ ПРИЧИНЕНИЯ ЛИЧНОГО ВРЕДА ЛИБО ЗА ТЕЛЕСНЫЕ ПОВРЕЖДЕНИЯ ИЛИ МОРАЛЬНЫЙ УЩЕРБ, ВОЗНИКАЮЩИЕ В РЕЗУЛЬТАТЕ ИЛИ В СВЯЗИ С НАСТОЯЩИМИ УСЛОВИЯМИ ИЛИ СВЯЗАННЫЕ С ИСПОЛЬЗОВАНИЕМ ИЛИ НЕСПОСОБНОСТЬЮ ИСПОЛЬЗОВАТЬ САЙТ, ПРИЛОЖЕНИЕ, УСЛУГИ ИЛИ ОБЩИЙ КОНТЕНТ, С ЛЮБЫМИ СООБЩЕНИЯМИ, ОБМЕНОМ ИНФОРМАЦИЕЙ ИЛИ ВСТРЕЧАМИ С ДРУГИМИ ПОЛЬЗОВАТЕЛЯМИ САЙТА, ПРИЛОЖЕНИЯ ИЛИ УСЛУГ ИЛИ ДРУГИМИ ЛИЦАМИ, С КОТОРЫМИ ВЫ ОБМЕНИВАЕТЕСЬ ИНФОРМАЦИЕЙ ИЛИ ВЗАИМОДЕЙСТВУЕТЕ В РЕЗУЛЬТАТЕ ВАШЕГО ПОЛЬЗОВАНИЯ САЙТОМ, ПРИЛОЖЕНИЕМ, УСЛУГАМИ ИЛИ ВАШЕГО УЧАСТИЯ В ПРОГРАММЕ РЕКОМЕНДАЦИЙ, ИЛИ С РАЗМЕЩЕНИЕМ ОБЪЯВЛЕНИЯ ИЛИ БРОНИРОВАНИЕМ МЕСТА ОТДЫХА/ПРОЖИВАНИЯ ЧЕРЕЗ САЙТ, ПРИЛОЖЕНИЕ И УСЛУГИ, НЕЗАВИСИМО ОТ ТОГО, ОСНОВАНЫ ЛИ ОНИ НА ГАРАНТИИ, ДОГОВОРЕ, ДЕЛИКТЕ (В ТОМ ЧИСЛЕ ПО НЕОСТОРОЖНОСТИ), ОТВЕТСТВЕННОСТИ ЗА КАЧЕСТВО ПРОДУКЦИИ ИЛИ ПО ИНЫМ ОСНОВАНИЯМ, И НЕЗАВИСИМО ОТ ТОГО, БЫЛА ЛИ КОМПАНИЯ AIRBNB ПРОИНФОРМИРОВАНА О ВОЗМОЖНОСТИ НАСТУПЛЕНИЯ ТАКИХ УБЫТКОВ, ДАЖЕ ЕСЛИ ВЫЯСНИТСЯ, ЧТО ИСПОЛЬЗОВАНИЕ ОГРАНИЧЕННЫХ СРЕДСТВ ПРАВОВОЙ ЗАЩИТЫ, УКАЗАННЫХ В НАСТОЯЩИХ УСЛОВИЯХ, НЕ ПОЗВОЛЯЕТ ДОСТИЧЬ ИХ ОСНОВНОЙ ЦЕЛИ.</p>
+
+<p>ЗА ИСКЛЮЧЕНИЕМ НАШИХ ОБЯЗАТЕЛЬСТВ ПО ВЫПЛАТЕ СООТВЕТСТВУЮЩИМ ХОЗЯЕВАМ В СООТВЕТСТВИИ С НАСТОЯЩИМИ УСЛОВИЯМИ И С ПОДТВЕРЖДЕННЫМ ПЛАТЕЖНЫМ ТРЕБОВАНИЕМ ПО ГАРАНТИИ AIRBNB ДЛЯ ХОЗЯЕВ, НИ ПРИ КАКИХ ОБСТОЯТЕЛЬСТВАХ СОВОКУПНАЯ ОТВЕТСТВЕННОСТЬ КОМПАНИИ AIRBNB, ВЫТЕКАЮЩАЯ ИЗ ИЛИ ВОЗНИКАЮЩАЯ В СВЯЗИ С НАСТОЯЩИМИ УСЛОВИЯМИ И ИСПОЛЬЗОВАНИЕМ ВАМИ САЙТА, ПРИЛОЖЕНИЯ И УСЛУГ, В ТОМ ЧИСЛЕ, ПОМИМО ПРОЧЕГО, В СВЯЗИ С ВАШИМ ОБЪЯВЛЕНИЕМ ИЛИ БРОНИРОВАНИЕМ МЕСТА ОТДЫХА/ПРОЖИВАНИЯ ПОСРЕДСТВОМ САЙТА, ПРИЛОЖЕНИЯ И УСЛУГ ИЛИ В РЕЗУЛЬТАТЕ ИСПОЛЬЗОВАНИЯ ИЛИ НЕВОЗМОЖНОСТИ ИСПОЛЬЗОВАНИЯ САЙТА, ПРИЛОЖЕНИЯ, УСЛУГ, ОБЩЕГО КОНТЕНТА ЛИБО ВАШЕГО УЧАСТИЯ В ПРОГРАММЕ РЕКОМЕНДАЦИЙ И В СВЯЗИ С ЛЮБЫМ МЕСТОМ ОТДЫХА/ПРОЖИВАНИЯ ИЛИ ВЗАИМОДЕЙСТВИЯ С ДРУГИМИ ЧЛЕНАМИ, НЕ ДОЛЖНА ПРЕВЫШАТЬ СУММУ, КОТОРУЮ ВЫ ЗАПЛАТИЛИ ИЛИ ДОЛЖНЫ ЗАПЛАТИТЬ ЗА БРОНИРОВАНИЕ ПОСРЕДСТВОМ САЙТА, ПРИЛОЖЕНИЯ И УСЛУГ В КАЧЕСТВЕ ГОСТЯ В ТЕЧЕНИЕ ДВЕНАДЦАТИ (12) МЕСЯЦЕВ ДО СОБЫТИЯ, ПОСЛУЖИВШЕГО ОСНОВАНИЕМ ДЛЯ ОТВЕТСТВЕННОСТИ, ИЛИ, В ТОМ СЛУЧАЕ, ЕСЛИ ВЫ ЯВЛЯЕТЕСЬ ХОЗЯИНОМ, СУММЫ, УПЛАЧЕННОЙ ВАМ КОМПАНИЕЙ AIRBNB В ТЕЧЕНИЕ ДВЕНАДЦАТИ (12) МЕСЯЦЕВ ДО СОБЫТИЯ, ПОСЛУЖИВШЕГО ОСНОВАНИЕМ ДЛЯ ОТВЕТСТВЕННОСТИ, ИЛИ СТО ДОЛЛАРОВ ($ 100), ЕСЛИ ТАКИЕ ПЛАТЕЖИ НЕ ОСУЩЕСТВЛЯЛИСЬ, В ТЕХ СЛУЧАЯХ, В ЗАВИСИМОСТИ ОТ ТОГО, ЧТО ПРИМЕНИМО. ВЫШЕПЕРЕЧИСЛЕННЫЕ ОГРАНИЧЕНИЯ УБЫТКОВ ЯВЛЯЮТСЯ ОСНОВОПОЛАГАЮЩИМИ ЭЛЕМЕНТАМИ СДЕЛКИ МЕЖДУ КОМПАНИЕЙ AIRBNB И ВАМИ. В НЕКОТОРЫХ ЮРИСДИКЦИЯХ НЕ ДОПУСКАЕТСЯ ИСКЛЮЧЕНИЕ ИЛИ ОГРАНИЧЕНИЕ ОТВЕТСТВЕННОСТИ ЗА КОСВЕННЫЕ ЛИБО СЛУЧАЙНЫЕ УБЫТКИ, ПОЭТОМУ ВЫШЕУКАЗАННЫЕ ОГРАНИЧЕНИЯ МОГУТ НЕ ПРИМЕНЯТЬСЯ К ВАМ.</p>
+
+<p><b>Возмещение ущерба</b></p>
+
+<p>Вы соглашаетесь освободить от ответственности, защитить, возместить ущерб и оградить компанию Airbnb и ее аффилированных лиц и дочерние компании и их должностных лиц, директоров, сотрудников и агентов от любых исков, ответственности, ущерба, убытков и расходов, включая, помимо прочего, гонорар адвоката и бухгалтерские расходы в разумных пределах, связанные каким-либо образом с (a) вашим доступом и использованием вами Сайта, Приложения, Услуг или Общего контента, либо нарушением вами настоящих Условий; (b) вашим Контентом Члена; (c) вашим (i) взаимодействием с любым Членом, (ii) бронированием любого Места отдыха/проживания, (iii) созданием Объявления, (d) использованием, состоянием или арендой вами Места отдыха/проживания, включая, помимо прочего, любые травмы, ущерб или убытки (имеющие характер возмещения, прямые, случайные, побочные или иные) любого рода, связанные с арендой, бронированием или использованием Места отдыха/проживания и (e) вашим участием в Программе рекомендаций или накоплением вами Туристических кредитов Airbnb.</p>
+
+<p><b>Экспортный контроль и страны, в отношении которых действуют ограничения</b></p>
+
+<p>Вы не можете использовать, экспортировать, реэкспортировать, импортировать либо передавать Приложение, за исключением тех случаев, когда это разрешено законодательством Соединенных Штатов, законодательством той юрисдикции, в которой вы получили Приложение, и любыми другими применимыми законами. В частности, помимо прочего, Приложение не может быть экспортировано или реэкспортировано: (a) в страны, на которые США наложено эмбарго; или (b) какому-либо лицу, занесенному в Список граждан особых категорий и запрещенных лиц Казначейства США либо Списки запрещенных лиц и организаций Министерства торговли США. Используя Сайт, Приложение и Услуги, вы заявляете и гарантируете, что (i) ни вы, ни публикуемое вами Место отдыха/проживания не находится в стране, на которую наложено эмбарго правительством США, или которая была обозначена правительством США как страна, "поддерживающая терроризм", и (ii) вы не занесены в Список граждан особых категорий и запрещенных лиц правительства США. Вы также не будете использовать Сайт, Приложение и Услуги для каких-либо целей, запрещенных законодательством США, включая разработку, проектирование, изготовление или производство ракет или ядерного, химического или биологического оружия. Компания Airbnb не позволяет публикацию Объявлений, связанных с некоторыми странами, ввиду эмбарго, наложенного США.</p>
+
+<p><b>Получение доступа и загрузка Приложения из iTunes</b></p>
+
+<p>Следующие положения относятся к любым Приложениям, загружаемым из магазина Apple App Store («<b>Приложение, приобретенное в магазине App Store</b>»):</p>
+
+<p><ul>
+<br /><li>Вы подтверждаете и соглашаетесь, что (i) настоящие Условия заключаются только между вами и компанией Airbnb, а не Apple, и (ii) компания Airbnb, а не Apple, несет единоличную ответственность за Приложение, приобретенное в магазине App Store, и его содержание. Ваше использование Приложения, приобретенного в магазине App Store, должно осуществляться в соответствии с Условиями обслуживания магазина App Store. </li></p>
+
+<p><li>Вы подтверждаете, что Apple не имеет никаких обязательств оказывать какие-либо услуги технической поддержки в отношении Приложения, приобретенного в магазине App Store. </li></p>
+
+<p><li>В случае несоответствия Приложения, приобретенного в магазине App Store, соответствующей гарантии, вы можете уведомить компанию Apple, и Apple возместит вам стоимость Приложения, приобретенного в магазине App Store, и если это допускается законом, Apple не будет иметь никаких других гарантийных обязательств в отношении Приложения, приобретенного в магазине App Store. Что касается отношений между компаниями Airbnb и Apple, любые претензии, убытки, ответственность, ущерб, расходы и издержки, связанные с нарушением гарантии, будут являться единоличной ответственностью компании Airbnb. </li></p>
+
+<p><li>Вы и компания Airbnb подтверждаете, что в рамках отношений между компаниями Airbnb и Apple, Apple не несет ответственности за разрешение каких-либо претензий, которые вы можете подать, или претензий любого третьего лица, связанных с Приложением, приобретенным в магазине App Store, или вашим владением и использованием Приложения, приобретенного в магазине App Store, включая, помимо прочего: (i) претензии относительно качества продукции; (ii) любые претензии относительно того, что Приложение, приобретенное в магазине App Store, не соответствует действующими юридическим или нормативным требованиям; и (iii) претензии, связанные с законодательством о защите потребителей или другим подобным законодательством. </li></p>
+
+<p><li>Вы и компания Airbnb подтверждаете, что в случае получения претензии от третьего лица о том, что Приложение, приобретенное в магазине App Store, или ваше владение или использование такого Приложения, приобретенного в магазине App Store, нарушает права интеллектуальной собственности третьего лица, в рамках отношений между компаниями Airbnb и Apple компания Airbnb, а не Apple, несет единоличную ответственность за проведение расследования, защиту, урегулирование и удовлетворение претензий, связанных с нарушением прав интеллектуальной собственности, в той мере, в которой это требуется в соответствии с настоящими Условиями.</li></p>
+
+<p><li>Вы и компания Airbnb подтверждаете и соглашаетесь, что Apple и дочерние компании Apple являются сторонними выгодополучателями по настоящим Условиям в связи с вашей лицензией на Приложение, приобретенное в магазине App Store, и что при принятии вами настоящих Условий компания Apple будет иметь право (и будет считаться принявшей такое право) в принудительном порядке добиваться соблюдения настоящих Условий в отношении вашей лицензии на Приложение, приобретенное в магазине App Store, вами, как сторонний выгодополучатель по настоящим Условиям.</li></p>
+
+<p><li>Не ограничивая другие положения настоящих Условий, вы должны соблюдать все условия соглашений с третьими лицами при использовании Приложения, приобретенного в магазине App Store.</li>
+<br /></ul></p>
+
+<p><b>Сообщение о правонарушениях</b></p>
+
+<p>Если вы пребываете с кем-либо или принимаете кого-либо, чье поведение является или являлось неприемлемым, включая, помимо прочего, лиц, (i) действия которых носят оскорбительный, насильственный или сексуально недопустимый характер, (ii) которых вы подозреваете в краже ваших вещей, или (iii) которые участвуют в других видах возмутительного поведения, вы должны немедленно сообщить о таком(-их) лице(-ах) соответствующим органам власти, а затем в компанию Airbnb, связавшись с нами и предоставив информацию о вашем полицейском участке и номере заявления по адресу: <a href="mailto:terms@airbnb.com" target="_blank">terms@airbnb.com</a>, при условии, что ваше сообщение не обяжет нас предпринимать какие-либо действия, выходящие за рамки того, что требуется по закону (если таковые имеются), и не возложит ответственность на нас никакой ответственности перед вами.
+<br /><b>Неделимое соглашение</b></p>
+
+<p>Настоящие Условия представляют собой полное и исключительное соглашение и договоренность между компанией Airbnb и вами в отношении Сайта, Приложения, Услуг, Общего контента, Программы рекомендаций и любого бронирования или Объявлений в отношении Мест отдыха/проживания с помощью Сайта, Приложения и Услуг, и настоящие Условия отменяют и заменяют все ранее существовавшие соглашения и договоренности между компанией Airbnb и вами в отношении бронирования или размещения объявлений о Местах отдыха/проживания, Сайта, Приложения, Услуг, Общего контента и Программы рекомендаций.</p>
+
+<p><b>Уступка</b></p>
+
+<p>Вы не вправе передавать или уступать настоящие Условия в силу закона или иным образом без предварительного письменного согласия компании Airbnb. Любая попытка с вашей стороны передать или уступить настоящие Условия без такого согласия будет недействительна и не будет иметь юридической силы. Компания Airbnb вправе уступать или передавать настоящие Условия по своему единоличному усмотрению без ограничений. С учетом вышеизложенного, настоящие Условия связывают и имеют юридическую силу для сторон, их правопреемников и разрешенных цессионариев.</p>
+
+<p><b>Уведомления</b></p>
+
+<p>Любые уведомления и прочие сообщения, предусмотренные или требуемые настоящими Условиями, включая такие уведомления и сообщения, которые касаются изменений настоящих Условий, должны быть составлены в письменной форме и направлены компанией Airbnb (i) по электронной почте (в каждом случае на адрес, который вы укажете) или (ii) посредством опубликования на Сайте или с помощью Приложения. Что касается уведомлений, направленных по электронной почте, датой получения будет считаться дата, когда такое уведомление было отправлено.</p>
+
+<p><b>Регулирующее законодательство и юрисдикция</b></p>
+
+<p>Настоящие Условия должны толковаться в соответствии с законами штата Калифорния и Соединенных Штатов Америки без учета их коллизионных норм. Мы с вами даем согласие подчиняться личной юрисдикции суда штата, расположенного в округе Сан-Франциско, Сан-Франциско, штат Калифорния, или Федерального окружного суда Соединенных Штатов по Северному округу штата Калифорнии, расположенного в Сан-Франциско, штат Калифорния, по любым разбирательствам, по которым стороны <b>сохраняют право добиваться применения</b> обеспечительных мер либо других средств судебной защиты по праву справедливости в надлежащей судебной инстанции с целью предотвращения существующих либо потенциальных нарушений, неправомерного присвоения или нарушения авторских прав, прав на товарные знаки, секреты производства, патенты либо других прав интеллектуальной собственности одной из сторон, <b>как это предусмотрено в разделе «Разрешение споров», приведенном ниже</b>.</p>
+
+<p><b>Разрешение споров</b></p>
+
+<p>Мы с вами соглашаемся с тем, что любой спор, претензия или разногласие, возникающие вследствие или в связи с настоящими Условиями, или в связи с их нарушением, прекращением, приведением в исполнение, толкованием или действительностью, или в связи с использованием Услуг или использованием Сайта или Приложения (далее совместно «<b>Споры</b>»), будут разрешаться путем арбитражного разбирательства, имеющего обязывающую силу, однако каждая из сторон сохраняет за собой право добиваться применения обеспечительных мер или других средств судебной защиты по праву справедливости в надлежащей судебной инстанции с целью предотвращения существующих или потенциальных нарушений, неправомерного присвоения или нарушения авторских прав, прав на товарные знаки, секреты производства, патенты либо других прав интеллектуальной собственности одной из сторон. Вы признаете и соглашаетесь с тем, что и вы, и компания Airbnb отказываетесь от права на суд присяжных или на принятие участия в судебном разбирательстве в качестве истца или члена группы в любом коллективном или представительском иске. Кроме того, за исключением случаев, когда вы и компания Airbnb письменно договоритесь об ином, арбитр не может объединять претензии более чем одного лица и не может никаким иным образом председательствовать на рассмотрении коллективного или представительского иска в какой-либо форме. Если этот конкретный абзац признается не подлежащим принудительному исполнению, то весь настоящий раздел "Разрешение споров" должен в полном объеме считаться недействительным. За исключением случаев, предусмотренных в предыдущем предложении, настоящий раздел "Разрешение споров" остается в силе после прекращения действия настоящих Условий.</p>
+
+<p><u>Правила арбитража и применимое право</u>. Арбитражное разбирательство будет проводиться Американской арбитражной ассоциацией ("AAA") в соответствии с Правилами коммерческого арбитража и Дополнительными процедурами по потребительским спорам ("Правила AAA"), которые действуют на соответствующий момент, с учетом изменений согласно положениям настоящего раздела "Разрешение споров" (С Правилами AAA можно ознакомиться на сайте <a href="http://www.adr.org/arb_med" target="_blank">http://www.adr.org/arb_med</a> или позвонив в ААА по телефону: 1-800-778-7879). Настоящий раздел будет толковаться и приводиться в исполнение в соответствии с Федеральным законом США об арбитраже.</p>
+
+<p><u>Процедура арбитража</u>. Сторона, желающая начать арбитражное разбирательство, должна предоставить другой стороне оформленное в письменном виде Требование о проведении арбитража, как это указано в Правилах ААА (ААА приводит форму Требования о проведении арбитража на сайте <a href="http://www.adr.org/aaa/ShowPDF?doc=ADRSTG_004175" target="_blank">http://www.adr.org/aaa/ShowPDF?doc=ADRSTG_004175</a> и отдельную форму для жителей штата Калифорния на сайте <a href="http://adr.org/aaa/ShowPDF?doc=ADRSTG_004314" target="_blank">http://adr.org/aaa/ShowPDF?doc=ADRSTG_004314</a>). Арбитром будет являться либо вышедший в отставку судья, либо адвокат, имеющий лицензию на юридическую практику в штате Калифорния, и он будет выбираться сторонами из списка арбитров ААА, специализирующихся на потребительских спорах. Если стороны не смогут достигнуть договоренности о выборе арбитра в течение 7 (семи) дней с момента вручения Требования о проведении арбитража, то в этом случае AAA назначит арбитра в соответствии с Правилами AAA.</p>
+
+<p><u>Место проведения арбитража и процедура</u>. За исключением случаев, когда вы и компания Airbnb договариваетесь об ином, арбитражное разбирательство будет проводиться в том округе, в котором вы проживаете. Если сумма вашего иска не превышает 10 000 (десять тысяч) долларов США, то в этом случае арбитражное разбирательство будет проводиться исключительно на основании документов, которые вы и компания Airbnb предоставите арбитру, за исключением тех случаев, когда вы требуете проведение слушания по делу или если арбитр определит, что слушание по делу необходимо. Если сумма вашего иска превышает 10 000 (десять тысяч) долларов США, ваше право на проведение слушания по делу будет определяться в соответствии с Правилами AAA. С учетом Правил ААА, арбитр будет иметь право по своему усмотрению руководить разумным обменом информацией между сторонами, соответствующим ускоренному характеру арбитража.</p>
+
+<p><u>Решение арбитра</u>. Арбитр вынесет решение в течение срока, предусмотренного Правилами ААА. Решение арбитра будет включать в себя существенные обстоятельства дела и выводы, на которых он основывал свое решение. Постановление по арбитражному решению может быть вынесено на рассмотрение любого суда, обладающего соответствующей юрисдикцией. Решение арбитра о возмещении убытков должно соответствовать условиям раздела "Ограничение ответственности" выше применительно к формам и суммам возмещения убытков, в отношении которых сторона может нести ответственность. Арбитр может вынести деклараторное решение или решение о судебном запрете только в пользу истца и только в том объеме, который необходим для предоставления средств судебной защиты, обеспечиваемых индивидуальным иском истца. Если вы выиграете дело в арбитраже, то в этом случае вы будете иметь право на возмещение расходов на оплату услуг и расходов юристов в пределах, предусмотренных применимым правом. Если дело в арбитраже выиграет компания Airbnb, то в этом случае она не будет добиваться и настоящим отказывается от всех прав, которыми она может обладать в соответствии с применимым правом, на возмещение расходов на оплату услуг и расходов юристов.</p>
+
+<p><u>Арбитражные сборы</u>. Ваша ответственность за оплату любых сборов AAA, связанных с подачей искового заявления, административных услуг и гонорара арбитра определяется исключительно положениями Правил ААА. Вместе с тем, если сумма вашего иска о возмещении ущерба не превышает 75 000 (семьдесят пять тысяч) долларов США, то в этом случае компания Airbnb оплатит все такие сборы, за исключением тех случаев, когда арбитр установит, что либо суть ваших претензий, либо средство правовой защиты, испрашиваемое в вашем Требования о проведении арбитража является необоснованным или преследует неправомерную цель (в соответствии с критериями, предусмотренными разделом 11(b) Федеральных правил гражданского судопроизводства).</p>
+
+<p><u>Изменения</u>. Несмотря на положения раздела «Изменения», приведенного выше, в том случае, если компания Airbnb внесет изменения в настоящий раздел «Разрешение споров» после той даты, когда вы впервые согласились с настоящими Условиями (или согласились с любыми последующими изменениями к настоящим Условиям), вы можете отказаться от принятия любого такого изменения, отправив нам письменное уведомление (в том числе по электронной почте по адресу <a href="mailto:terms@airbnb.com" target="_blank">terms@airbnb.com</a>) в течение 30 дней с даты вступления такого изменения в силу в соответствии с тем, как это указано в разделе «Дата последнего обновления», приведенном выше, или с даты сообщения по электронной почте, отправленного вам компанией Airbnb, уведомляющего о таком изменении. Отказываясь от принятия каких-либо изменений, вы соглашаетесь с тем, что вы будете разрешать любой спор между вами и компанией Airbnb в соответствии с положениями настоящего раздела «Разрешение споров» по состоянию на ту дату, когда вы впервые согласились с настоящими Условиями (или согласились с какими-либо последующими изменениями к настоящим Условиям).</p>
+
+<p><b>Общие положения</b></p>
+
+<p>Не приведение в исполнение какого-либо права или положения настоящих Условий компанией Airbnb не означает ее отказа от приведения в исполнение этого права или положения в будущем. Отказ от осуществления любого такого права или положения будет действительным только в случае его оформления в письменном виде и подписания уполномоченным представителем компании Airbnb. За исключением случаев, прямо указанных в настоящих Условиях, использования любой из сторон любого из имеющихся у нее средств правовой защиты, предусмотренных настоящими Условиями, не будет ограничивать использование других имеющихся в ее распоряжении средств правовой защиты, предусмотренных настоящими Условиями либо иным образом. Если по какой-либо причине арбитр или суд компетентной юрисдикции установит, что какое-либо из положений настоящих Условий является недействительным или не подлежащим принудительному исполнению, такое положение будет применяться в максимально допустимой степени, а прочие положения настоящих Условий будут сохранять полную силу.</p>
+
+<p><b>Дополнительные положения для пользователей, вступающих в договорные отношения с компанией Airbnb Ireland</b></p>
+
+<p>Следующие пункты будут применяться в том случае, если вы вступаете в договорные отношения с компанией Airbnb Ireland.</p>
+
+<p>Последнее предложение в пункте "<b>Приостановление, прекращение и аннулирование Аккаунта Airbnb</b>" исключается и заменяется следующим:
+<br /><i>"Пожалуйста, обратите внимание на то, что если ваш Аккаунт Airbnb был аннулирован, мы не обязаны возвращать вам какой-либо Контент, который вы разместили на Сайте, в Приложении и Услугах, включая, помимо прочего, любые обзоры или Отзывы."</i></p>
+
+<p>Пункт "<b>Регулирующее законодательство и юрисдикция</b>" исключается и заменяется следующим:
+<br /><i>"<b>Регулирующее законодательство и юрисдикция</b>
+<br />Настоящие Условия должны толковаться в соответствии с правом Ирландии. Мы с вами даем согласие подчиняться неисключительной юрисдикции судов Ирландии для разрешения любых споров между сторонами. Если компания Airbnb будет намерена добиваться соблюдения вами каких-либо ее прав в принудительном порядке, она вправе будет обратиться в суды Ирландии или суды той юрисдикции, в которой вы проживаете."</i></p>
+
+<p>Пункт "<b>Разрешение споров</b>" исключается и не подлежит применению.</p>
+
+<p>Пункт "<b>Экспортный контроль и страны, в отношении которых действуют ограничения</b>" дополняется следующим:
+<br /><i>"<b>Экспортный контроль и страны, в отношении которых действуют ограничения</b>
+<br />Помимо соблюдения основного требований основного пункта "Экспортный контроль и страны, в отношении которых действуют ограничения", вы также обязаны соблюдать любое применимое законодательство об экспортном контроле в вашей юрисдикции."</i></p>
+
+<p><b>Как связаться с компанией Airbnb</b></p>
+
+<p>Если у вас возникнут вопросы о настоящих Условиях или любом Приложении, приобретенном в магазине App Store, обращайтесь в компанию Airbnb по адресу: <a href="mailto:terms@airbnb.com" target="_blank">terms@airbnb.com</a>.
+</p>
+  </div>
+</div>
+
+    </main>
+
+      <div id="footer" class="container-brand-dark footer-surround footer-container">
+        <footer class="page-container-responsive">
+  <div class="row row-condensed">
+
+    <div class="col-md-3 col-md-offset-1">
+      <div class="language-curr-picker clearfix">
+        <div class="language-picker"></div>
+          <div class="currency-picker"></div>
+        <div class="cx-number"></div>
+      </div>
+    </div>
+
+    <div class="col-md-2 col-md-offset-1 hide-sm">
+      <h2 class="h5">Компания</h2>
+      <ul class="list-layout">
+        <li><a href="about/about-us" class="link-contrast">Об Airbnb</a></li>
+        <li><a href="careers" class="link-contrast">Работа</a></li>
+        <li><a href="press/news" class="link-contrast">Пресса о нас</a></li>
+        <li><a href="http://blog.airbnb.com" class="link-contrast">Блог</a></li>
+        <li><a href="help" class="link-contrast">Помощь</a></li>
+        <li><a href="policies" class="link-contrast">Правила</a></li>
+        <li><a href="disaster-response" class="link-contrast">Помощь при стихийных бедствиях</a></li>
+        <li><a href="terms" class="link-contrast">Условия и конфиденциальность</a></li>
+      </ul>
+    </div>
+
+    <div class="col-md-2 hide-sm">
+      <h2 class="h5">Узнайте о нас больше</h2>
+      <ul class="list-layout">
+        <li><a href="trust" class="link-contrast">Доверие и безопасность</a></li>
+        <li><a href="invite@r=6" class="link-contrast">Пригласите друзей</a></li>
+        <li><a href="wishlists/airbnb_picks" class="link-contrast">Выбор Airbnb</a></li>
+        <li><a href="mobile" class="link-contrast">Мобильная версия</a></li>
+        <li><a href="https://www.airbnbnyc.com" class="link-contrast">Поддержите Нью-Йорк</a></li>
+        <li><a href="business-travel-management" class="link-contrast">Деловые поездки</a></li>
+        <li><a href="sitemaps" class="link-contrast">Карта сайта</a></li>
+      </ul>
+    </div>
+
+    <div class="col-md-2 hide-sm">
+      <h2 class="h5">Прием гостей</h2>
+      <ul class="list-layout">
+        <li><a href="host" class="link-contrast">Почему стоит принимать гостей</a></li>
+
+        <li><a href="hospitality" class="link-contrast">Гостеприимство</a></li>
+        <li><a href="help/responsible-hosting" class="link-contrast">Как стать ответственным хозяином</a></li>
+        <li><a href="home-safety" class="link-contrast">Безопасность жилья</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="col-sm-12 space-4 space-top-4 show-sm">
+    <ul class="list-layout list-inline text-center h5">
+      <li><a href="about/about-us" class="link-contrast">Об Airbnb</a></li>
+      <li><a href="careers" class="link-contrast">Работа</a></li>
+      <li><a href="press/news" class="link-contrast">Пресса о нас</a></li>
+      <li><a href="http://blog.airbnb.com" class="link-contrast">Блог</a></li>
+      <li><a href="terms" class="link-contrast">Условия и конфиденциальность</a></li>
+    </ul>
+  </div>
+
+  <hr class="footer-divider space-top-8 space-4 hide-sm">
+
+  <div class="text-center">
+    <h2 class="h5 space-4 hide-sm">Присоединяйтесь к нам!</h2>
+    <ul class="list-layout list-inline" itemscope itemtype="http://schema.org/Organization">
+      <link itemprop="url" href="index.html">
+      <meta itemprop="logo" content="https://a2.muscache.com/airbnb/static/logos/belo-200x200-4d851c5b28f61931bf1df28dd15e60ef.png">
+        <li>
+          <a href="https://www.facebook.com/AirbnbRussia" class="link-contrast footer-icon-container" itemprop="sameAs" target="_blank">
+            <span class="screen-reader-only">Facebook</span>
+            <i class='icon footer-icon icon-facebook'></i>
+</a>        </li>
+        <li>
+          <a href="https://plus.google.com/+airbnb" class="link-contrast footer-icon-container" itemprop="sameAs" rel="publisher" target="_blank">
+            <span class="screen-reader-only">Google+</span>
+            <i class='icon footer-icon icon-google-plus'></i>
+</a>        </li>
+        <li>
+          <a href="https://vk.com/airbnb" class="link-contrast footer-icon-container" itemprop="sameAs" target="_blank">
+            <span class="screen-reader-only">Vkontakte</span>
+            <i class='icon footer-icon icon-vk'></i>
+</a>        </li>
+
+        <li>
+          <a href="https://twitter.com/airbnb_ru" class="link-contrast footer-icon-container" itemprop="sameAs" target="_blank">
+            <span class="screen-reader-only">Twitter</span>
+            <i class='icon footer-icon icon-twitter'></i>
+</a>        </li>
+
+      <li>
+        <a href="https://www.linkedin.com/company/airbnb" class="link-contrast footer-icon-container" itemprop="sameAs" target="_blank">
+          <span class="screen-reader-only">LinkedIn</span>
+          <i class='icon footer-icon icon-linkedin'></i>
+</a>      </li>
+
+        <li>
+          <a href="http://www.youtube.com/airbnb" class="link-contrast footer-icon-container" itemprop="sameAs" target="_blank">
+            <span class="screen-reader-only">YouTube</span>
+            <i class='icon footer-icon icon-youtube'></i>
+</a>        </li>
+        <li>
+          <a href="https://www.instagram.com/airbnb" class="link-contrast footer-icon-container" itemprop="sameAs" target="_blank">
+            <span class="screen-reader-only">Instagram</span>
+            <i class='icon footer-icon icon-instagram'></i>
+</a>        </li>
+    </ul>
+    <div class="space-top-2 text-muted">
+      &copy; Airbnb, Inc.
+    </div>
+  </div>
+</footer>
+
+      </div>
+
+    <meta content="{&quot;Password&quot;:&quot;Пароль&quot;,&quot;users.Confirm_Password_to_Continue&quot;:&quot;Подтвердите пароль, чтобы продолжить&quot;,&quot;users.Confirm_Password&quot;:&quot;Подтвердите пароль&quot;,&quot;users.Cancel&quot;:&quot;Отмена&quot;,&quot;users.Please_enter_your_Airbnb_password_to_continue.&quot;:&quot;В целях безопасности вам необходимо ввести свой пароль Airbnb.&quot;,&quot;user.signup.forgot_password&quot;:&quot;Забыли пароль?&quot;,&quot;users.Confirm_Facebook_Password&quot;:&quot;Подтвердить пароль Facebook&quot;,&quot;home&quot;:&quot;Главная&quot;,&quot;download_the_app&quot;:&quot;Загрузить приложение&quot;,&quot;sign_up&quot;:&quot;Регистрация&quot;,&quot;log_in&quot;:&quot;Войти&quot;,&quot;alerts&quot;:&quot;Уведомления&quot;,&quot;inbox&quot;:&quot;Почтовый ящик&quot;,&quot;discover&quot;:&quot;Узнайте о нас больше&quot;,&quot;search&quot;:&quot;Начать поиск&quot;,&quot;how_it_works&quot;:&quot;Как это работает&quot;,&quot;help&quot;:&quot;Помощь&quot;,&quot;invite_friends&quot;:&quot;Пригласите друзей&quot;,&quot;logout&quot;:&quot;Выйти&quot;,&quot;name&quot;:&quot;Пользователь&quot;,&quot;photography&quot;:&quot;Фотография&quot;,&quot;your_trips&quot;:&quot;Ваши поездки&quot;,&quot;close&quot;:&quot;Закрыть&quot;,&quot;where_are_you_going&quot;:&quot;Куда вы едете?&quot;,&quot;checkin&quot;:&quot;Прибытие&quot;,&quot;checkout&quot;:&quot;Выезд&quot;,&quot;number_of_guests&quot;:&quot;Количество гостей&quot;,&quot;room_type_0&quot;:&quot;Дом/квартира целиком&quot;,&quot;room_type_1&quot;:&quot;Отдельная комната&quot;,&quot;room_type_2&quot;:&quot;Общая комната&quot;,&quot;find_a_place&quot;:&quot;Найти жилье&quot;,&quot;shared.x guests&quot;:&quot;%{smart_count} гость |||| %{smart_count} гостя |||| %{smart_count} гостей&quot;,&quot;guests&quot;:&quot;Гостей&quot;,&quot;room_type&quot;:&quot;Тип размещения&quot;,&quot;back&quot;:&quot;Назад&quot;,&quot;visit the help center&quot;:&quot;Посетите наш Центр помощи&quot;,&quot;view this article in the help center&quot;:&quot;Посмотреть эту статью в Центре помощи&quot;,&quot;shared.Messages&quot;:&quot;Сообщения&quot;,&quot;shared.Notifications&quot;:&quot;оповещения&quot;,&quot;shared.See All&quot;:&quot;Смотреть все&quot;,&quot;shared.View Inbox&quot;:&quot;Просмотреть почтовый ящик&quot;,&quot;notifications.Read All Notifications&quot;:&quot;В %{link_start}панели управления%{link_end} вас ждет %{smart_count} уведомление.||||В %{link_start}панели управления%{link_end} вас ждут %{smart_count} уведомления.||||В %{link_start}панели управления%{link_end} вас ждут %{smart_count} уведомлений.&quot;,&quot;notifications.Read All Messages&quot;:&quot;Новых сообщений нет. Вы в курсе всего!&quot;,&quot;notifications.Error&quot;:&quot;К сожалению, сейчас мы не можем загрузить новые сообщения. %{link_start}Посмотреть почтовый ящик%{link_end}&quot;,&quot;nothing_here_yet&quot;:&quot;Здесь пока ничего нет.&quot;,&quot;check_back_for_listings&quot;:&quot;Пройдитесь еще раз по объявлениям, которые привлекли ваше внимание.&quot;,&quot;see_all&quot;:&quot;Посмотреть все&quot;,&quot;error_retrieving&quot;:&quot;При попытке показать недавно просмотренные вами объявления произошла ошибка. Пожалуйста, повторите попытку позже.&quot;,&quot;choose_language&quot;:&quot;Выбрать язык&quot;,&quot;choose_currency&quot;:&quot;Выбрать валюту&quot;,&quot;clear_dates&quot;:&quot;Удалить даты&quot;,&quot;datepicker_updated_years_ago&quot;:&quot;Обновлен %{smart_count} год назад |||| Обновлен %{smart_count} года назад |||| Обновлен %{smart_count} лет назад&quot;,&quot;datepicker_updated_months_ago&quot;:&quot;Обновлен %{smart_count} месяц назад |||| Обновлен %{smart_count} месяца назад |||| Обновлен %{smart_count} месяцев назад&quot;,&quot;datepicker_updated_days_ago&quot;:&quot;Обновлен %{smart_count} день назад |||| Обновлен %{smart_count} дня назад |||| Обновлен %{smart_count} дней назад&quot;,&quot;datepicker_updated_today&quot;:&quot;Обновлен сегодня&quot;,&quot;datepicker_never_updated&quot;:&quot;Никогда не обновлялся&quot;,&quot;datepicker_min_nights&quot;:&quot;%{smart_count} ночь минимум |||| %{smart_count} ночи минимум |||| %{smart_count} ночей минимум&quot;,&quot;datepicker_min_nights_this_month&quot;:&quot;%{smart_count} сутки мин. в этом месяце |||| %{smart_count} суток мин. в этом месяце |||| %{smart_count} суток мин. в этом месяце&quot;,&quot;datepicker_min_nights_varies&quot;:&quot;Минимальная продолжительность бронирования не фиксирована&quot;}" id="_bootstrap-phrases" />
+<meta content="{&quot;canonical_host&quot;:&quot;www.airbnb.ru&quot;,&quot;language&quot;:&quot;ru&quot;,&quot;locale&quot;:&quot;ru&quot;,&quot;api_config&quot;:{&quot;baseUrl&quot;:&quot;https://www.airbnb.ru/api&quot;,&quot;key&quot;:&quot;d306zoyjsyarp7ifhu67rjxn52tv0t20&quot;},&quot;deep_link&quot;:null,&quot;tracking_context&quot;:{&quot;source&quot;:&quot;monorail&quot;,&quot;platform&quot;:&quot;js&quot;,&quot;version&quot;:&quot;627b88388e351c501518164e77588784f9f86bfc&quot;,&quot;controller&quot;:&quot;home&quot;,&quot;action&quot;:&quot;terms&quot;,&quot;req_uuid&quot;:&quot;504c3ebe-5658-4aa1-b313-662509dea0c4&quot;,&quot;shardset&quot;:&quot;a0,a1,a2&quot;},&quot;no_flash_alerts&quot;:null,&quot;google_maps_url&quot;:&quot;https://maps.googleapis.com/maps/api/js?language=ru&amp;region=RU&amp;sensor=false&amp;v=3.13&amp;libraries=places&amp;client=gme-airbnbinc&amp;channel=monorail-prod&quot;,&quot;open_street_map_url&quot;:&quot;https://api.tiles.mapbox.com/mapbox.js/v2.1.4/mapbox.js&quot;}" id="_bootstrap-layout-init" />
+<meta content="{&quot;data&quot;:{&quot;country&quot;:&quot;RU&quot;,&quot;tld_country&quot;:&quot;RU&quot;,&quot;currencies&quot;:{&quot;AED&quot;:{&quot;symbol&quot;:&quot;&amp;#1583;.&amp;#1573;&quot;,&quot;code_required&quot;:false,&quot;options&quot;:{&quot;unicode_symbol&quot;:&quot;ﺩ.ﺇ&quot;}},&quot;ARS&quot;:{&quot;symbol&quot;:&quot;$&quot;,&quot;code_required&quot;:true,&quot;options&quot;:null},&quot;AUD&quot;:{&quot;symbol&quot;:&quot;$&quot;,&quot;code_required&quot;:true,&quot;options&quot;:null},&quot;BRL&quot;:{&quot;symbol&quot;:&quot;R$&quot;,&quot;code_required&quot;:false,&quot;options&quot;:{&quot;space_between_price_and_symbol&quot;:true}},&quot;CAD&quot;:{&quot;symbol&quot;:&quot;$&quot;,&quot;code_required&quot;:true,&quot;options&quot;:null},&quot;CHF&quot;:{&quot;symbol&quot;:&quot;CHF&quot;,&quot;code_required&quot;:false,&quot;options&quot;:{&quot;position&quot;:&quot;after&quot;,&quot;space_between_price_and_symbol&quot;:true}},&quot;CNY&quot;:{&quot;symbol&quot;:&quot;&amp;yen;&quot;,&quot;code_required&quot;:false,&quot;options&quot;:{&quot;unicode_symbol&quot;:&quot;¥&quot;}},&quot;CRC&quot;:{&quot;symbol&quot;:&quot;&amp;#8353;&quot;,&quot;code_required&quot;:false,&quot;options&quot;:{&quot;unicode_symbol&quot;:&quot;₡&quot;}},&quot;CZK&quot;:{&quot;symbol&quot;:&quot;&amp;#75;&amp;#269;&quot;,&quot;code_required&quot;:false,&quot;options&quot;:{&quot;unicode_symbol&quot;:&quot;Kč&quot;}},&quot;DKK&quot;:{&quot;symbol&quot;:&quot;kr&quot;,&quot;code_required&quot;:true,&quot;options&quot;:{&quot;position&quot;:&quot;after&quot;,&quot;space_between_price_and_symbol&quot;:true,&quot;explicit_currency_not_aesthetic&quot;:true}},&quot;EUR&quot;:{&quot;symbol&quot;:&quot;&amp;euro;&quot;,&quot;code_required&quot;:false,&quot;options&quot;:{&quot;unicode_symbol&quot;:&quot;€&quot;,&quot;position&quot;:&quot;special&quot;}},&quot;GBP&quot;:{&quot;symbol&quot;:&quot;&amp;pound;&quot;,&quot;code_required&quot;:false,&quot;options&quot;:{&quot;unicode_symbol&quot;:&quot;£&quot;}},&quot;HKD&quot;:{&quot;symbol&quot;:&quot;$&quot;,&quot;code_required&quot;:true,&quot;options&quot;:null},&quot;HRK&quot;:{&quot;symbol&quot;:&quot;kn&quot;,&quot;code_required&quot;:false,&quot;options&quot;:null},&quot;HUF&quot;:{&quot;symbol&quot;:&quot;Ft&quot;,&quot;code_required&quot;:false,&quot;options&quot;:null},&quot;IDR&quot;:{&quot;symbol&quot;:&quot;Rp&quot;,&quot;code_required&quot;:false,&quot;options&quot;:null},&quot;ILS&quot;:{&quot;symbol&quot;:&quot;&amp;#8362;&quot;,&quot;code_required&quot;:false,&quot;options&quot;:{&quot;unicode_symbol&quot;:&quot;₪&quot;,&quot;space_between_price_and_symbol&quot;:true}},&quot;INR&quot;:{&quot;symbol&quot;:&quot;&amp;#8377;&quot;,&quot;code_required&quot;:false,&quot;options&quot;:{&quot;unicode_symbol&quot;:&quot;₹&quot;}},&quot;JPY&quot;:{&quot;symbol&quot;:&quot;&amp;yen;&quot;,&quot;code_required&quot;:false,&quot;options&quot;:{&quot;unicode_symbol&quot;:&quot;¥&quot;,&quot;space_between_price_and_symbol&quot;:true}},&quot;KRW&quot;:{&quot;symbol&quot;:&quot;&amp;#8361;&quot;,&quot;code_required&quot;:false,&quot;options&quot;:{&quot;unicode_symbol&quot;:&quot;₩&quot;}},&quot;MAD&quot;:{&quot;symbol&quot;:&quot;MAD&quot;,&quot;code_required&quot;:false,&quot;options&quot;:null},&quot;MXN&quot;:{&quot;symbol&quot;:&quot;$&quot;,&quot;code_required&quot;:true,&quot;options&quot;:null},&quot;MYR&quot;:{&quot;symbol&quot;:&quot;&amp;#82;&amp;#77;&quot;,&quot;code_required&quot;:false,&quot;options&quot;:{&quot;unicode_symbol&quot;:&quot;RM&quot;}},&quot;NOK&quot;:{&quot;symbol&quot;:&quot;kr&quot;,&quot;code_required&quot;:true,&quot;options&quot;:{&quot;position&quot;:&quot;after&quot;,&quot;space_between_price_and_symbol&quot;:true,&quot;explicit_currency_not_aesthetic&quot;:true}},&quot;NZD&quot;:{&quot;symbol&quot;:&quot;$&quot;,&quot;code_required&quot;:true,&quot;options&quot;:null},&quot;PEN&quot;:{&quot;symbol&quot;:&quot;&amp;#83;&amp;#47;&amp;#46;&quot;,&quot;code_required&quot;:false,&quot;options&quot;:{&quot;unicode_symbol&quot;:&quot;S/.&quot;}},&quot;PHP&quot;:{&quot;symbol&quot;:&quot;&amp;#8369;&quot;,&quot;code_required&quot;:false,&quot;options&quot;:{&quot;unicode_symbol&quot;:&quot;₱&quot;}},&quot;PLN&quot;:{&quot;symbol&quot;:&quot;z&amp;#22;&amp;#322;&quot;,&quot;code_required&quot;:false,&quot;options&quot;:{&quot;unicode_symbol&quot;:&quot;zł&quot;,&quot;position&quot;:&quot;after&quot;,&quot;space_between_price_and_symbol&quot;:true}},&quot;RON&quot;:{&quot;symbol&quot;:&quot;lei&quot;,&quot;code_required&quot;:false,&quot;options&quot;:null},&quot;RUB&quot;:{&quot;symbol&quot;:&quot;&amp;#1088;&quot;,&quot;code_required&quot;:false,&quot;options&quot;:{&quot;unicode_symbol&quot;:&quot;р&quot;,&quot;position&quot;:&quot;after&quot;}},&quot;SEK&quot;:{&quot;symbol&quot;:&quot;kr&quot;,&quot;code_required&quot;:true,&quot;options&quot;:{&quot;position&quot;:&quot;after&quot;,&quot;space_between_price_and_symbol&quot;:true,&quot;explicit_currency_not_aesthetic&quot;:true}},&quot;SGD&quot;:{&quot;symbol&quot;:&quot;$&quot;,&quot;code_required&quot;:true,&quot;options&quot;:null},&quot;THB&quot;:{&quot;symbol&quot;:&quot;&amp;#3647;&quot;,&quot;code_required&quot;:false,&quot;options&quot;:{&quot;unicode_symbol&quot;:&quot;฿&quot;}},&quot;TRY&quot;:{&quot;symbol&quot;:&quot;&amp;#84;&amp;#76;&quot;,&quot;code_required&quot;:false,&quot;options&quot;:{&quot;unicode_symbol&quot;:&quot;TL&quot;,&quot;position&quot;:&quot;after&quot;,&quot;space_between_price_and_symbol&quot;:true}},&quot;TWD&quot;:{&quot;symbol&quot;:&quot;$&quot;,&quot;code_required&quot;:true,&quot;options&quot;:null},&quot;USD&quot;:{&quot;symbol&quot;:&quot;$&quot;,&quot;code_required&quot;:false,&quot;options&quot;:null},&quot;VND&quot;:{&quot;symbol&quot;:&quot;&amp;#8363;&quot;,&quot;code_required&quot;:false,&quot;options&quot;:{&quot;unicode_symbol&quot;:&quot;₫&quot;}},&quot;ZAR&quot;:{&quot;symbol&quot;:&quot;R&quot;,&quot;code_required&quot;:true,&quot;options&quot;:null}},&quot;current_locale_name&quot;:&quot;Русский&quot;,&quot;languages&quot;:[{&quot;locale_name&quot;:&quot;Bahasa Indonesia&quot;,&quot;locale&quot;:&quot;id&quot;},{&quot;locale_name&quot;:&quot;Bahasa Melayu&quot;,&quot;locale&quot;:&quot;ms&quot;},{&quot;locale_name&quot;:&quot;Català&quot;,&quot;locale&quot;:&quot;ca&quot;},{&quot;locale_name&quot;:&quot;Dansk&quot;,&quot;locale&quot;:&quot;da&quot;},{&quot;locale_name&quot;:&quot;Deutsch&quot;,&quot;locale&quot;:&quot;de&quot;},{&quot;locale_name&quot;:&quot;English&quot;,&quot;locale&quot;:&quot;en&quot;},{&quot;locale_name&quot;:&quot;Español&quot;,&quot;locale&quot;:&quot;es&quot;},{&quot;locale_name&quot;:&quot;Eλληνικά&quot;,&quot;locale&quot;:&quot;el&quot;},{&quot;locale_name&quot;:&quot;Français&quot;,&quot;locale&quot;:&quot;fr&quot;},{&quot;locale_name&quot;:&quot;Italiano&quot;,&quot;locale&quot;:&quot;it&quot;},{&quot;locale_name&quot;:&quot;Magyar&quot;,&quot;locale&quot;:&quot;hu&quot;},{&quot;locale_name&quot;:&quot;Nederlands&quot;,&quot;locale&quot;:&quot;nl&quot;},{&quot;locale_name&quot;:&quot;Norsk&quot;,&quot;locale&quot;:&quot;no&quot;},{&quot;locale_name&quot;:&quot;Polski&quot;,&quot;locale&quot;:&quot;pl&quot;},{&quot;locale_name&quot;:&quot;Português&quot;,&quot;locale&quot;:&quot;pt&quot;},{&quot;locale_name&quot;:&quot;Suomi&quot;,&quot;locale&quot;:&quot;fi&quot;},{&quot;locale_name&quot;:&quot;Svenska&quot;,&quot;locale&quot;:&quot;sv&quot;},{&quot;locale_name&quot;:&quot;Türkçe&quot;,&quot;locale&quot;:&quot;tr&quot;},{&quot;locale_name&quot;:&quot;Íslenska&quot;,&quot;locale&quot;:&quot;is&quot;},{&quot;locale_name&quot;:&quot;Čeština&quot;,&quot;locale&quot;:&quot;cs&quot;},{&quot;locale_name&quot;:&quot;Русский&quot;,&quot;locale&quot;:&quot;ru&quot;},{&quot;locale_name&quot;:&quot;ภาษาไทย&quot;,&quot;locale&quot;:&quot;th&quot;},{&quot;locale_name&quot;:&quot;中文 (简体)&quot;,&quot;locale&quot;:&quot;zh&quot;},{&quot;locale_name&quot;:&quot;中文 (繁體)&quot;,&quot;locale&quot;:&quot;zh-TW&quot;},{&quot;locale_name&quot;:&quot;日本語&quot;,&quot;locale&quot;:&quot;ja&quot;},{&quot;locale_name&quot;:&quot;한국어&quot;,&quot;locale&quot;:&quot;ko&quot;}]}}" id="_bootstrap-i18n-init" />
+<meta content="{&quot;enabled&quot;:true,&quot;appId&quot;:&quot;138566025676&quot;,&quot;scope&quot;:&quot;email,user_birthday,user_likes,user_education_history,user_hometown,user_location,user_friends&quot;,&quot;sdkUrl&quot;:&quot;https://connect.facebook.net/ru_RU/sdk.js&quot;}" id="_bootstrap-facebook-init" />
+<meta content="{&quot;packages/field_guide.bundle.js&quot;:&quot;https://a1.muscache.com/airbnb/static/packages/field_guide.bundle-126554439ba1f2f8bb7ae39e7fc29e13.js&quot;}" id="_bootstrap-javascript_paths" />
+
+    <div id="gmap-preload" class="hide"></div>
+    <!--[if lt IE 9]>
+      <script src="https://a2.muscache.com/airbnb/static/packages/libs_jquery_1x-e95c1dff2a9ffc285bce145ece7099ec.js" type="text/javascript"></script>
+    <![endif]-->
+    <!--[if gte IE 9]><!-->
+      <script src="https://a2.muscache.com/airbnb/static/packages/libs_jquery_2x-e688313e79e91d46e8566128ba44c6db.js" type="text/javascript"></script>
+    <!--<![endif]-->
+    <script src="https://a1.muscache.com/airbnb/static/packages/o2.1-502701409f9c7e21ce236d3fc2f106d2.js" type="text/javascript"></script>
+    <script src="https://a0.muscache.com/airbnb/static/packages/core-861eae124ce17b042aea93b7789a3cb4.js" type="text/javascript"></script>
+
+    <script>
+
+      Airbnb.init();
+</script>
+
+    <div id="fb-root"></div>
+
+    
+    
+    
+
+  </body>
+</html>
+<!-- ver. 627b88388e351c501518164e77588784f9f86bfc -->
